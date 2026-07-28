@@ -1,0 +1,309 @@
+{
+  "counts": {
+    "aarav0107": 157,
+    "adarshba": 52,
+    "adhwik_123": 32,
+    "advikmd": 81,
+    "adyantsingh17": 174,
+    "agreshgarg": 0,
+    "akeeme787": 2,
+    "alibinyaz": 6,
+    "allbeert": 335,
+    "anatol2016": 2,
+    "ansh_ghai5e": 123,
+    "aradhyaprachi2012": 9,
+    "arcsonic_z": 190,
+    "artem_chess7": 10,
+    "aryan_ttw2": 70,
+    "atagonulal": 299,
+    "aungkyawsan2": 87,
+    "avigoorn": 35,
+    "ayanshkarna": 178,
+    "baker609": 190,
+    "baltimor_9": 34,
+    "bekrombine": 145,
+    "bkayp": 9,
+    "blacksky-1": 161,
+    "brucekpt": 1,
+    "capybara_1732": 3,
+    "celeritas_squared": 11,
+    "chaktic_gaming": 1545,
+    "chess_student32": 55,
+    "chesschamps15": 548
+  },
+  "last_checked": {
+    "aarav0107": "2026-07-28T14:43:09.257495+00:00",
+    "adarshba": "2026-07-28T14:43:11.719832+00:00",
+    "adhwik_123": "2026-07-28T14:43:13.932614+00:00",
+    "advikmd": "2026-07-28T14:43:18.867575+00:00",
+    "adyantsingh17": "2026-07-28T14:43:26.210689+00:00",
+    "agreshgarg": "2026-07-28T14:43:26.736823+00:00",
+    "akeeme787": "2026-07-28T14:43:29.664432+00:00",
+    "alibinyaz": "2026-07-28T14:43:32.817840+00:00",
+    "allbeert": "2026-07-28T14:43:49.030577+00:00",
+    "anatol2016": "2026-07-28T14:43:49.504292+00:00",
+    "ansh_ghai5e": "2026-07-28T14:43:57.371530+00:00",
+    "aradhyaprachi2012": "2026-07-28T14:43:58.160644+00:00",
+    "arcsonic_z": "2026-07-28T14:44:08.377241+00:00",
+    "artem_chess7": "2026-07-28T14:44:09.160286+00:00",
+    "aryan_ttw2": "2026-07-28T14:44:14.561618+00:00",
+    "atagonulal": "2026-07-28T14:44:26.928259+00:00",
+    "aungkyawsan2": "2026-07-28T14:44:30.800514+00:00",
+    "avigoorn": "2026-07-28T14:44:32.592040+00:00",
+    "ayanshkarna": "2026-07-28T14:44:41.287889+00:00",
+    "baker609": "2026-07-28T14:44:49.320236+00:00",
+    "baltimor_9": "2026-07-28T14:44:51.071876+00:00",
+    "bekrombine": "2026-07-28T14:44:58.538056+00:00",
+    "bkayp": "2026-07-28T14:44:59.320072+00:00",
+    "blacksky-1": "2026-07-28T14:45:08.371647+00:00",
+    "brucekpt": "2026-07-28T14:45:08.870724+00:00",
+    "capybara_1732": "2026-07-28T14:45:11.908080+00:00",
+    "celeritas_squared": "2026-07-28T14:45:15.188125+00:00",
+    "chaktic_gaming": "2026-07-28T14:46:20.121187+00:00",
+    "chess_student32": "2026-07-28T14:46:22.817825+00:00",
+    "chesschamps15": "2026-07-28T14:46:45.487546+00:00"
+  },
+  "ranking": [
+    {
+      "games": 1545,
+      "profile": "https://lichess.org/@/chaktic_gaming",
+      "rank": 1,
+      "rating": 1842,
+      "source": "Turnier",
+      "username": "chaktic_gaming"
+    },
+    {
+      "games": 548,
+      "profile": "https://lichess.org/@/chesschamps15",
+      "rank": 2,
+      "rating": 2261,
+      "source": "Turnier",
+      "username": "chesschamps15"
+    },
+    {
+      "games": 335,
+      "profile": "https://lichess.org/@/allbeert",
+      "rank": 3,
+      "rating": 2016,
+      "source": "Turnier",
+      "username": "allbeert"
+    },
+    {
+      "games": 299,
+      "profile": "https://lichess.org/@/atagonulal",
+      "rank": 4,
+      "rating": 1741,
+      "source": "Turnier",
+      "username": "atagonulal"
+    },
+    {
+      "games": 190,
+      "profile": "https://lichess.org/@/arcsonic_z",
+      "rank": 5,
+      "rating": 1802,
+      "source": "Turnier",
+      "username": "arcsonic_z"
+    },
+    {
+      "games": 190,
+      "profile": "https://lichess.org/@/baker609",
+      "rank": 6,
+      "rating": 1687,
+      "source": "Turnier",
+      "username": "baker609"
+    },
+    {
+      "games": 178,
+      "profile": "https://lichess.org/@/ayanshkarna",
+      "rank": 7,
+      "rating": 1465,
+      "source": "Turnier",
+      "username": "ayanshkarna"
+    },
+    {
+      "games": 174,
+      "profile": "https://lichess.org/@/adyantsingh17",
+      "rank": 8,
+      "rating": 1446,
+      "source": "Turnier",
+      "username": "adyantsingh17"
+    },
+    {
+      "games": 161,
+      "profile": "https://lichess.org/@/blacksky-1",
+      "rank": 9,
+      "rating": 1817,
+      "source": "Turnier",
+      "username": "blacksky-1"
+    },
+    {
+      "games": 157,
+      "profile": "https://lichess.org/@/aarav0107",
+      "rank": 10,
+      "rating": 1700,
+      "source": "Turnier",
+      "username": "aarav0107"
+    },
+    {
+      "games": 145,
+      "profile": "https://lichess.org/@/bekrombine",
+      "rank": 11,
+      "rating": 1451,
+      "source": "Turnier",
+      "username": "bekrombine"
+    },
+    {
+      "games": 123,
+      "profile": "https://lichess.org/@/ansh_ghai5e",
+      "rank": 12,
+      "rating": 1298,
+      "source": "Turnier",
+      "username": "ansh_ghai5e"
+    },
+    {
+      "games": 87,
+      "profile": "https://lichess.org/@/aungkyawsan2",
+      "rank": 13,
+      "rating": 1207,
+      "source": "Turnier",
+      "username": "aungkyawsan2"
+    },
+    {
+      "games": 81,
+      "profile": "https://lichess.org/@/advikmd",
+      "rank": 14,
+      "rating": 1745,
+      "source": "Turnier",
+      "username": "advikmd"
+    },
+    {
+      "games": 70,
+      "profile": "https://lichess.org/@/aryan_ttw2",
+      "rank": 15,
+      "rating": 1524,
+      "source": "Turnier",
+      "username": "aryan_ttw2"
+    },
+    {
+      "games": 55,
+      "profile": "https://lichess.org/@/chess_student32",
+      "rank": 16,
+      "rating": 1697,
+      "source": "Turnier",
+      "username": "chess_student32"
+    },
+    {
+      "games": 52,
+      "profile": "https://lichess.org/@/adarshba",
+      "rank": 17,
+      "rating": 1534,
+      "source": "Turnier",
+      "username": "adarshba"
+    },
+    {
+      "games": 35,
+      "profile": "https://lichess.org/@/avigoorn",
+      "rank": 18,
+      "rating": 1640,
+      "source": "Turnier",
+      "username": "avigoorn"
+    },
+    {
+      "games": 34,
+      "profile": "https://lichess.org/@/baltimor_9",
+      "rank": 19,
+      "rating": 1175,
+      "source": "Turnier",
+      "username": "baltimor_9"
+    },
+    {
+      "games": 32,
+      "profile": "https://lichess.org/@/adhwik_123",
+      "rank": 20,
+      "rating": 1479,
+      "source": "Turnier",
+      "username": "adhwik_123"
+    },
+    {
+      "games": 11,
+      "profile": "https://lichess.org/@/celeritas_squared",
+      "rank": 21,
+      "rating": 1373,
+      "source": "Turnier",
+      "username": "celeritas_squared"
+    },
+    {
+      "games": 10,
+      "profile": "https://lichess.org/@/artem_chess7",
+      "rank": 22,
+      "rating": 1635,
+      "source": "Turnier",
+      "username": "artem_chess7"
+    },
+    {
+      "games": 9,
+      "profile": "https://lichess.org/@/aradhyaprachi2012",
+      "rank": 23,
+      "rating": 844,
+      "source": "Turnier",
+      "username": "aradhyaprachi2012"
+    },
+    {
+      "games": 9,
+      "profile": "https://lichess.org/@/bkayp",
+      "rank": 24,
+      "rating": 1330,
+      "source": "Turnier",
+      "username": "bkayp"
+    },
+    {
+      "games": 6,
+      "profile": "https://lichess.org/@/alibinyaz",
+      "rank": 25,
+      "rating": 1474,
+      "source": "Turnier",
+      "username": "alibinyaz"
+    },
+    {
+      "games": 3,
+      "profile": "https://lichess.org/@/capybara_1732",
+      "rank": 26,
+      "rating": 1534,
+      "source": "Turnier",
+      "username": "capybara_1732"
+    },
+    {
+      "games": 2,
+      "profile": "https://lichess.org/@/akeeme787",
+      "rank": 27,
+      "rating": 1392,
+      "source": "Turnier",
+      "username": "akeeme787"
+    },
+    {
+      "games": 2,
+      "profile": "https://lichess.org/@/anatol2016",
+      "rank": 28,
+      "rating": 1626,
+      "source": "Turnier",
+      "username": "anatol2016"
+    },
+    {
+      "games": 1,
+      "profile": "https://lichess.org/@/brucekpt",
+      "rank": 29,
+      "rating": 1221,
+      "source": "Turnier",
+      "username": "brucekpt"
+    },
+    {
+      "games": 0,
+      "profile": "https://lichess.org/@/agreshgarg",
+      "rank": 30,
+      "rating": null,
+      "source": "Turnier",
+      "username": "agreshgarg"
+    }
+  ],
+  "updated_at": "2026-07-28T14:46:45.487651+00:00"
+}
