@@ -16,7 +16,14 @@
     "basumatati": 79,
     "beda1": 14,
     "bel19vetien": 394,
-    "bestttttt": 422
+    "bestttttt": 422,
+    "bilalinal": 23,
+    "boardvision7": 263,
+    "braveheart96": 175,
+    "bravic": 705,
+    "brodychess17": 25,
+    "byronalejadandrom": 60,
+    "chepukaitis1966": 358
   },
   "last_checked": {
     "aajanachle": "2026-07-28T14:44:42.079348+00:00",
@@ -35,13 +42,28 @@
     "basumatati": "2026-07-28T14:49:26.423642+00:00",
     "beda1": "2026-07-28T14:49:29.499147+00:00",
     "bel19vetien": "2026-07-28T14:50:48.570366+00:00",
-    "bestttttt": "2026-07-28T14:52:13.234306+00:00"
+    "bestttttt": "2026-07-28T14:52:13.234306+00:00",
+    "bilalinal": "2026-07-28T14:52:19.678677+00:00",
+    "boardvision7": "2026-07-28T14:53:12.549689+00:00",
+    "braveheart96": "2026-07-28T14:53:47.813366+00:00",
+    "bravic": "2026-07-28T14:56:09.089091+00:00",
+    "brodychess17": "2026-07-28T14:56:14.363210+00:00",
+    "byronalejadandrom": "2026-07-28T14:56:26.629197+00:00",
+    "chepukaitis1966": "2026-07-28T14:57:38.492837+00:00"
   },
   "ranking": [
     {
+      "games": 705,
+      "profile": "https://lichess.org/@/bravic",
+      "rank": 1,
+      "rating": 2267,
+      "source": "Turnier",
+      "username": "bravic"
+    },
+    {
       "games": 660,
       "profile": "https://lichess.org/@/aajanachle",
-      "rank": 1,
+      "rank": 2,
       "rating": 2357,
       "source": "Turnier",
       "username": "aajanachle"
@@ -49,7 +71,7 @@
     {
       "games": 422,
       "profile": "https://lichess.org/@/bestttttt",
-      "rank": 2,
+      "rank": 3,
       "rating": 1945,
       "source": "Turnier",
       "username": "bestttttt"
@@ -57,31 +79,55 @@
     {
       "games": 394,
       "profile": "https://lichess.org/@/bel19vetien",
-      "rank": 3,
+      "rank": 4,
       "rating": 2000,
       "source": "Turnier",
       "username": "bel19vetien"
     },
     {
+      "games": 358,
+      "profile": "https://lichess.org/@/chepukaitis1966",
+      "rank": 5,
+      "rating": 2138,
+      "source": "Turnier",
+      "username": "chepukaitis1966"
+    },
+    {
       "games": 279,
       "profile": "https://lichess.org/@/baker609",
-      "rank": 4,
+      "rank": 6,
       "rating": 1963,
       "source": "Turnier",
       "username": "baker609"
     },
     {
+      "games": 263,
+      "profile": "https://lichess.org/@/boardvision7",
+      "rank": 7,
+      "rating": 2171,
+      "source": "Turnier",
+      "username": "boardvision7"
+    },
+    {
       "games": 227,
       "profile": "https://lichess.org/@/atagonulal",
-      "rank": 5,
+      "rank": 8,
       "rating": 2043,
       "source": "Turnier",
       "username": "atagonulal"
     },
     {
+      "games": 175,
+      "profile": "https://lichess.org/@/braveheart96",
+      "rank": 9,
+      "rating": 2438,
+      "source": "Turnier",
+      "username": "braveheart96"
+    },
+    {
       "games": 168,
       "profile": "https://lichess.org/@/amudha2002",
-      "rank": 6,
+      "rank": 10,
       "rating": 1857,
       "source": "Turnier",
       "username": "amudha2002"
@@ -89,7 +135,7 @@
     {
       "games": 131,
       "profile": "https://lichess.org/@/austinmoet",
-      "rank": 7,
+      "rank": 11,
       "rating": 2034,
       "source": "Turnier",
       "username": "austinmoet"
@@ -97,7 +143,7 @@
     {
       "games": 117,
       "profile": "https://lichess.org/@/arzela-ascoli",
-      "rank": 8,
+      "rank": 12,
       "rating": 1845,
       "source": "Turnier",
       "username": "arzela-ascoli"
@@ -105,7 +151,7 @@
     {
       "games": 96,
       "profile": "https://lichess.org/@/adhwik_123",
-      "rank": 9,
+      "rank": 13,
       "rating": 1882,
       "source": "Turnier",
       "username": "adhwik_123"
@@ -113,7 +159,7 @@
     {
       "games": 87,
       "profile": "https://lichess.org/@/aasedoy",
-      "rank": 10,
+      "rank": 14,
       "rating": 2257,
       "source": "Turnier",
       "username": "aasedoy"
@@ -121,7 +167,7 @@
     {
       "games": 79,
       "profile": "https://lichess.org/@/basumatati",
-      "rank": 11,
+      "rank": 15,
       "rating": 2240,
       "source": "Turnier",
       "username": "basumatati"
@@ -129,7 +175,7 @@
     {
       "games": 74,
       "profile": "https://lichess.org/@/aviaansh92",
-      "rank": 12,
+      "rank": 16,
       "rating": 1932,
       "source": "Turnier",
       "username": "aviaansh92"
@@ -137,15 +183,23 @@
     {
       "games": 62,
       "profile": "https://lichess.org/@/arcsonic_z",
-      "rank": 13,
+      "rank": 17,
       "rating": 1804,
       "source": "Turnier",
       "username": "arcsonic_z"
     },
     {
+      "games": 60,
+      "profile": "https://lichess.org/@/byronalejadandrom",
+      "rank": 18,
+      "rating": 1926,
+      "source": "Turnier",
+      "username": "byronalejadandrom"
+    },
+    {
       "games": 36,
       "profile": "https://lichess.org/@/apersaud",
-      "rank": 14,
+      "rank": 19,
       "rating": 2147,
       "source": "Turnier",
       "username": "apersaud"
@@ -153,15 +207,31 @@
     {
       "games": 25,
       "profile": "https://lichess.org/@/aryan_ttw2",
-      "rank": 15,
+      "rank": 20,
       "rating": 1738,
       "source": "Turnier",
       "username": "aryan_ttw2"
     },
     {
+      "games": 25,
+      "profile": "https://lichess.org/@/brodychess17",
+      "rank": 21,
+      "rating": 1501,
+      "source": "Turnier",
+      "username": "brodychess17"
+    },
+    {
+      "games": 23,
+      "profile": "https://lichess.org/@/bilalinal",
+      "rank": 22,
+      "rating": 1631,
+      "source": "Turnier",
+      "username": "bilalinal"
+    },
+    {
       "games": 14,
       "profile": "https://lichess.org/@/beda1",
-      "rank": 16,
+      "rank": 23,
       "rating": 1185,
       "source": "Turnier",
       "username": "beda1"
@@ -169,11 +239,11 @@
     {
       "games": 3,
       "profile": "https://lichess.org/@/abhinavr_ccs",
-      "rank": 17,
+      "rank": 24,
       "rating": 1344,
       "source": "Turnier",
       "username": "abhinavr_ccs"
     }
   ],
-  "updated_at": "2026-07-28T14:52:13.234385+00:00"
+  "updated_at": "2026-07-28T14:57:38.492962+00:00"
 }
