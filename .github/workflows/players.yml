@@ -1,0 +1,110 @@
+name: Multi-Variant Activity Leaderboard
+
+on:
+  schedule:
+    # Alle 6 Stunden (UTC). Passe das bei Bedarf an.
+    - cron: "0 */6 * * *"
+  # Manuelles Anstoßen über den "Run workflow"-Button auf GitHub.
+  # Es gibt bewusst KEIN Eingabefeld fuer den Modus mehr: die Matrix
+  # unten laeuft IMMER fuer alle gelisteten Modi, egal ob der Workflow
+  # per Cron oder manuell gestartet wurde.
+  workflow_dispatch: {}
+
+# Damit die Jobs am Ende per "git push" ins Repo schreiben duerfen.
+permissions:
+  contents: write
+
+jobs:
+  update-leaderboard:
+    runs-on: ubuntu-latest
+
+    strategy:
+      # fail-fast: false -> wenn z.B. "atomic" mal fehlschlaegt (Rate
+      # Limit o.ae.), laufen die anderen Modi trotzdem normal weiter.
+      fail-fast: false
+      matrix:
+        # ALLE unterstuetzten Modi/Varianten - jeder bekommt einen
+        # eigenen, parallel laufenden Job und einen eigenen Ordner
+        # (data/<perf_type>/, status/<perf_type>/). Wenn du einzelne
+        # Varianten nicht brauchst, einfach hier aus der Liste streichen.
+        perf_type:
+          - blitz
+          - rapid
+          - bullet
+          - classical
+          - ultraBullet
+          
+
+    # Eigene Concurrency-Gruppe PRO Modus: dadurch laufen z.B. "blitz" und
+    # "rapid" parallel zueinander (keine gegenseitige Blockade), aber falls
+    # zwei "blitz"-Laeufe sich zeitlich ueberschneiden (z.B. manueller Start
+    # waehrend der Cron laeuft), werden die serialisiert statt sich beim
+    # Commit/Push gegenseitig in die Quere zu kommen.
+    concurrency:
+      group: leaderboard-${{ matrix.perf_type }}
+      cancel-in-progress: false
+
+    steps:
+      - name: Repo auschecken
+        uses: actions/checkout@v4
+        with:
+          # GEAENDERT: von 0 (komplette Historie) auf 1 (nur neuester
+          # Stand) - "fetch-depth: 0" hat bei jedem der 13 parallelen
+          # Matrix-Jobs die GESAMTE Git-Historie geklont. Da das Skript
+          # waehrend eines Laufs alle GIT_PUSH_MIN_INTERVAL_SECONDS einen
+          # neuen Commit pusht (potenziell hunderte pro Lauf, mal 13 Modi),
+          # waechst die Historie sehr schnell auf mehrere GB - das hat den
+          # Runner-Datentraeger mit "No space left on device" gesprengt.
+          # "git pull --rebase" im Skript funktioniert mit einem flachen
+          # Checkout weiterhin normal gegen den aktuellen origin/main-Stand.
+          fetch-depth: 1
+          ref: main  # WICHTIG: sonst landet der Runner im detached HEAD
+                     # (kein echter Branch) und "git pull --rebase" /
+                     # "git push" im Skript schlagen mit "You are not
+                     # currently on a branch" fehl. Falls dein Standard-
+                     # Branch anders heisst (z.B. "master"), hier anpassen.
+          persist-credentials: true  # noetig, damit "git push" aus dem Skript heraus funktioniert
+
+      - name: Python einrichten
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Git-Identität einrichten
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: "Skript ausführen [${{ matrix.perf_type }}] (pusht selbst laufend Live-Updates)"
+        env:
+          LICHESS_TOKEN: ${{ secrets.LICHESS_TOKEN }}
+          PERF_TYPE: ${{ matrix.perf_type }}
+        run: python3 scripts/auto/most_active_blitz_players.py
+
+      - name: "Debug [${{ matrix.perf_type }}] – prüfen, was tatsächlich erzeugt wurde"
+        run: |
+          echo "Inhalt von data/${{ matrix.perf_type }}/ (falls vorhanden):"
+          find "data/${{ matrix.perf_type }}" 2>&1 || echo "existiert nicht!"
+          echo ""
+          echo "Inhalt von status/${{ matrix.perf_type }}/ (falls vorhanden):"
+          find "status/${{ matrix.perf_type }}" 2>&1 || echo "existiert nicht!"
+          echo ""
+          echo "Git-Status:"
+          git status --porcelain --ignored
+
+      - name: "Letzten Rest committen [${{ matrix.perf_type }}] (Sicherheitsnetz)"
+        run: |
+          # Das Skript pusht waehrend des Laufs bereits selbst laufend.
+          # Dieser Schritt fängt nur noch den allerletzten Rest ab, falls
+          # zwischen dem letzten Live-Push im Skript und Skriptende noch
+          # etwas Uncommittetes uebrig blieb. Nur der eigene Unterordner
+          # dieses Modus wird angefasst - andere Matrix-Jobs stoeren sich
+          # dadurch nicht gegenseitig.
+          git add -f --ignore-errors "data/${{ matrix.perf_type }}" "status/${{ matrix.perf_type }}"
+          if git diff --staged --quiet; then
+            echo "Keine Änderungen - nichts zu committen."
+          else
+            git pull --rebase
+            git commit -m "Update ${{ matrix.perf_type }}-Leaderboard (final) [skip ci]"
+            git push
+          fi
