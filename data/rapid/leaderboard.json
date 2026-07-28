@@ -1,0 +1,639 @@
+{
+  "counts": {
+    "a050608": 5,
+    "aadhavpavisaran": 30,
+    "aadrik12": 39,
+    "aaravkumar0789": 78,
+    "aaravpcvk": 21,
+    "abitha": 52,
+    "adarsh201630": 4,
+    "adlinerijo": 15,
+    "advayd7777": 34,
+    "ahasna2015": 3,
+    "aingerumen": 51,
+    "akilankarthick": 102,
+    "aleks81alex": 30,
+    "alex_gaziev": 11,
+    "alittlenowmorelater": 17,
+    "aloket": 6,
+    "amirhosseinmir_95": 65,
+    "anaparthisirisha": 211,
+    "anatoli555": 135,
+    "andrew-po-streamer": 19,
+    "anesh0310": 1,
+    "angadpande": 25,
+    "ani_aki": 45,
+    "arash_aminzadeh": 26,
+    "arihan17": 37,
+    "aryan_chauhan": 13,
+    "astrelca": 44,
+    "atharvap_2017": 45,
+    "aurelll": 17,
+    "avni3005": 23,
+    "avukat123": 6,
+    "axolotl88": 2,
+    "azizos1209benkrayem": 15,
+    "babazeba": 19,
+    "bakary221": 37,
+    "balarajuu": 65,
+    "baltiazar": 69,
+    "batnur": 114,
+    "beekay25": 28,
+    "berkayimamoglushhsh": 47,
+    "bhavygupta2014": 26,
+    "bhdminhtuan": 12,
+    "bhmoctra": 65,
+    "bigflyohtani": 60,
+    "bognar3": 11,
+    "bombitam": 55,
+    "brianosundwa": 3,
+    "bss1984": 13,
+    "catmyledy": 110,
+    "championtaha": 286,
+    "chat_vip": 10,
+    "chesshatrick": 14,
+    "clelu": 63,
+    "d5e": 105,
+    "d_kriyangsh": 41,
+    "daaniel45": 54,
+    "daksheshkotia": 56,
+    "daun_pisang": 95,
+    "david_88-murmur": 26,
+    "decisivecat": 13,
+    "deglantines": 40,
+    "diago48": 38,
+    "diana2205": 80
+  },
+  "last_checked": {
+    "a050608": "2026-07-28T14:42:49.357669+00:00",
+    "aadhavpavisaran": "2026-07-28T14:42:53.239589+00:00",
+    "aadrik12": "2026-07-28T14:42:56.609281+00:00",
+    "aaravkumar0789": "2026-07-28T14:43:01.197184+00:00",
+    "aaravpcvk": "2026-07-28T14:43:02.437644+00:00",
+    "abitha": "2026-07-28T14:43:06.649633+00:00",
+    "adarsh201630": "2026-07-28T14:43:07.752345+00:00",
+    "adlinerijo": "2026-07-28T14:43:11.179825+00:00",
+    "advayd7777": "2026-07-28T14:43:14.958247+00:00",
+    "ahasna2015": "2026-07-28T14:43:16.717627+00:00",
+    "aingerumen": "2026-07-28T14:43:21.608814+00:00",
+    "akilankarthick": "2026-07-28T14:43:26.722108+00:00",
+    "aleks81alex": "2026-07-28T14:43:28.299672+00:00",
+    "alex_gaziev": "2026-07-28T14:43:30.567243+00:00",
+    "alittlenowmorelater": "2026-07-28T14:43:33.809735+00:00",
+    "aloket": "2026-07-28T14:43:36.366815+00:00",
+    "amirhosseinmir_95": "2026-07-28T14:43:41.769134+00:00",
+    "anaparthisirisha": "2026-07-28T14:43:50.629326+00:00",
+    "anatoli555": "2026-07-28T14:43:56.426675+00:00",
+    "andrew-po-streamer": "2026-07-28T14:43:57.627372+00:00",
+    "anesh0310": "2026-07-28T14:43:59.887630+00:00",
+    "angadpande": "2026-07-28T14:44:03.808744+00:00",
+    "ani_aki": "2026-07-28T14:44:07.637662+00:00",
+    "arash_aminzadeh": "2026-07-28T14:44:09.877481+00:00",
+    "arihan17": "2026-07-28T14:44:13.310461+00:00",
+    "aryan_chauhan": "2026-07-28T14:44:15.427493+00:00",
+    "astrelca": "2026-07-28T14:44:19.569797+00:00",
+    "atharvap_2017": "2026-07-28T14:44:22.636949+00:00",
+    "aurelll": "2026-07-28T14:44:24.537319+00:00",
+    "avni3005": "2026-07-28T14:44:27.719653+00:00",
+    "avukat123": "2026-07-28T14:44:30.077675+00:00",
+    "axolotl88": "2026-07-28T14:44:32.920094+00:00",
+    "azizos1209benkrayem": "2026-07-28T14:44:36.409762+00:00",
+    "babazeba": "2026-07-28T14:44:39.627174+00:00",
+    "bakary221": "2026-07-28T14:44:43.307091+00:00",
+    "balarajuu": "2026-07-28T14:44:47.440157+00:00",
+    "baltiazar": "2026-07-28T14:44:50.607905+00:00",
+    "batnur": "2026-07-28T14:44:55.589991+00:00",
+    "beekay25": "2026-07-28T14:44:57.108001+00:00",
+    "berkayimamoglushhsh": "2026-07-28T14:45:00.889040+00:00",
+    "bhavygupta2014": "2026-07-28T14:45:03.072984+00:00",
+    "bhdminhtuan": "2026-07-28T14:45:05.478120+00:00",
+    "bhmoctra": "2026-07-28T14:45:10.586493+00:00",
+    "bigflyohtani": "2026-07-28T14:45:13.359679+00:00",
+    "bognar3": "2026-07-28T14:45:14.439177+00:00",
+    "bombitam": "2026-07-28T14:45:19.179334+00:00",
+    "brianosundwa": "2026-07-28T14:45:20.107150+00:00",
+    "bss1984": "2026-07-28T14:45:23.501735+00:00",
+    "catmyledy": "2026-07-28T14:45:30.369072+00:00",
+    "championtaha": "2026-07-28T14:45:42.207541+00:00",
+    "chat_vip": "2026-07-28T14:45:43.017612+00:00",
+    "chesshatrick": "2026-07-28T14:45:46.139161+00:00",
+    "clelu": "2026-07-28T14:45:51.148937+00:00",
+    "d5e": "2026-07-28T14:45:55.847049+00:00",
+    "d_kriyangsh": "2026-07-28T14:45:57.887455+00:00",
+    "daaniel45": "2026-07-28T14:46:01.389335+00:00",
+    "daksheshkotia": "2026-07-28T14:46:04.459261+00:00",
+    "daun_pisang": "2026-07-28T14:46:09.082028+00:00",
+    "david_88-murmur": "2026-07-28T14:46:10.566997+00:00",
+    "decisivecat": "2026-07-28T14:46:13.047639+00:00",
+    "deglantines": "2026-07-28T14:46:17.091282+00:00",
+    "diago48": "2026-07-28T14:46:20.128632+00:00",
+    "diana2205": "2026-07-28T14:46:25.849185+00:00"
+  },
+  "ranking": [
+    {
+      "games": 286,
+      "profile": "https://lichess.org/@/championtaha",
+      "rank": 1,
+      "rating": 1375,
+      "source": "Turnier",
+      "username": "championtaha"
+    },
+    {
+      "games": 211,
+      "profile": "https://lichess.org/@/anaparthisirisha",
+      "rank": 2,
+      "rating": 1365,
+      "source": "Turnier",
+      "username": "anaparthisirisha"
+    },
+    {
+      "games": 135,
+      "profile": "https://lichess.org/@/anatoli555",
+      "rank": 3,
+      "rating": 1163,
+      "source": "Turnier",
+      "username": "anatoli555"
+    },
+    {
+      "games": 114,
+      "profile": "https://lichess.org/@/batnur",
+      "rank": 4,
+      "rating": 1588,
+      "source": "Turnier",
+      "username": "batnur"
+    },
+    {
+      "games": 110,
+      "profile": "https://lichess.org/@/catmyledy",
+      "rank": 5,
+      "rating": 1547,
+      "source": "Turnier",
+      "username": "catmyledy"
+    },
+    {
+      "games": 105,
+      "profile": "https://lichess.org/@/d5e",
+      "rank": 6,
+      "rating": 1418,
+      "source": "Turnier",
+      "username": "d5e"
+    },
+    {
+      "games": 102,
+      "profile": "https://lichess.org/@/akilankarthick",
+      "rank": 7,
+      "rating": 1349,
+      "source": "Turnier",
+      "username": "akilankarthick"
+    },
+    {
+      "games": 95,
+      "profile": "https://lichess.org/@/daun_pisang",
+      "rank": 8,
+      "rating": 1469,
+      "source": "Turnier",
+      "username": "daun_pisang"
+    },
+    {
+      "games": 80,
+      "profile": "https://lichess.org/@/diana2205",
+      "rank": 9,
+      "rating": 1474,
+      "source": "Turnier",
+      "username": "diana2205"
+    },
+    {
+      "games": 78,
+      "profile": "https://lichess.org/@/aaravkumar0789",
+      "rank": 10,
+      "rating": 1019,
+      "source": "Turnier",
+      "username": "aaravkumar0789"
+    },
+    {
+      "games": 69,
+      "profile": "https://lichess.org/@/baltiazar",
+      "rank": 11,
+      "rating": 1536,
+      "source": "Turnier",
+      "username": "baltiazar"
+    },
+    {
+      "games": 65,
+      "profile": "https://lichess.org/@/amirhosseinmir_95",
+      "rank": 12,
+      "rating": 1542,
+      "source": "Turnier",
+      "username": "amirhosseinmir_95"
+    },
+    {
+      "games": 65,
+      "profile": "https://lichess.org/@/balarajuu",
+      "rank": 13,
+      "rating": 1403,
+      "source": "Turnier",
+      "username": "balarajuu"
+    },
+    {
+      "games": 65,
+      "profile": "https://lichess.org/@/bhmoctra",
+      "rank": 14,
+      "rating": 1395,
+      "source": "Turnier",
+      "username": "bhmoctra"
+    },
+    {
+      "games": 63,
+      "profile": "https://lichess.org/@/clelu",
+      "rank": 15,
+      "rating": 1547,
+      "source": "Turnier",
+      "username": "clelu"
+    },
+    {
+      "games": 60,
+      "profile": "https://lichess.org/@/bigflyohtani",
+      "rank": 16,
+      "rating": 1482,
+      "source": "Turnier",
+      "username": "bigflyohtani"
+    },
+    {
+      "games": 56,
+      "profile": "https://lichess.org/@/daksheshkotia",
+      "rank": 17,
+      "rating": 1215,
+      "source": "Turnier",
+      "username": "daksheshkotia"
+    },
+    {
+      "games": 55,
+      "profile": "https://lichess.org/@/bombitam",
+      "rank": 18,
+      "rating": 1173,
+      "source": "Turnier",
+      "username": "bombitam"
+    },
+    {
+      "games": 54,
+      "profile": "https://lichess.org/@/daaniel45",
+      "rank": 19,
+      "rating": 1382,
+      "source": "Turnier",
+      "username": "daaniel45"
+    },
+    {
+      "games": 52,
+      "profile": "https://lichess.org/@/abitha",
+      "rank": 20,
+      "rating": 1344,
+      "source": "Turnier",
+      "username": "abitha"
+    },
+    {
+      "games": 51,
+      "profile": "https://lichess.org/@/aingerumen",
+      "rank": 21,
+      "rating": 1544,
+      "source": "Turnier",
+      "username": "aingerumen"
+    },
+    {
+      "games": 47,
+      "profile": "https://lichess.org/@/berkayimamoglushhsh",
+      "rank": 22,
+      "rating": 1002,
+      "source": "Turnier",
+      "username": "berkayimamoglushhsh"
+    },
+    {
+      "games": 45,
+      "profile": "https://lichess.org/@/ani_aki",
+      "rank": 23,
+      "rating": 1437,
+      "source": "Turnier",
+      "username": "ani_aki"
+    },
+    {
+      "games": 45,
+      "profile": "https://lichess.org/@/atharvap_2017",
+      "rank": 24,
+      "rating": 1619,
+      "source": "Turnier",
+      "username": "atharvap_2017"
+    },
+    {
+      "games": 44,
+      "profile": "https://lichess.org/@/astrelca",
+      "rank": 25,
+      "rating": 1677,
+      "source": "Turnier",
+      "username": "astrelca"
+    },
+    {
+      "games": 41,
+      "profile": "https://lichess.org/@/d_kriyangsh",
+      "rank": 26,
+      "rating": 1202,
+      "source": "Turnier",
+      "username": "d_kriyangsh"
+    },
+    {
+      "games": 40,
+      "profile": "https://lichess.org/@/deglantines",
+      "rank": 27,
+      "rating": 1165,
+      "source": "Turnier",
+      "username": "deglantines"
+    },
+    {
+      "games": 39,
+      "profile": "https://lichess.org/@/aadrik12",
+      "rank": 28,
+      "rating": 1379,
+      "source": "Turnier",
+      "username": "aadrik12"
+    },
+    {
+      "games": 38,
+      "profile": "https://lichess.org/@/diago48",
+      "rank": 29,
+      "rating": 1362,
+      "source": "Turnier",
+      "username": "diago48"
+    },
+    {
+      "games": 37,
+      "profile": "https://lichess.org/@/arihan17",
+      "rank": 30,
+      "rating": 1493,
+      "source": "Turnier",
+      "username": "arihan17"
+    },
+    {
+      "games": 37,
+      "profile": "https://lichess.org/@/bakary221",
+      "rank": 31,
+      "rating": 1442,
+      "source": "Turnier",
+      "username": "bakary221"
+    },
+    {
+      "games": 34,
+      "profile": "https://lichess.org/@/advayd7777",
+      "rank": 32,
+      "rating": 1446,
+      "source": "Turnier",
+      "username": "advayd7777"
+    },
+    {
+      "games": 30,
+      "profile": "https://lichess.org/@/aadhavpavisaran",
+      "rank": 33,
+      "rating": 1302,
+      "source": "Turnier",
+      "username": "aadhavpavisaran"
+    },
+    {
+      "games": 30,
+      "profile": "https://lichess.org/@/aleks81alex",
+      "rank": 34,
+      "rating": 1576,
+      "source": "Turnier",
+      "username": "aleks81alex"
+    },
+    {
+      "games": 28,
+      "profile": "https://lichess.org/@/beekay25",
+      "rank": 35,
+      "rating": 1432,
+      "source": "Turnier",
+      "username": "beekay25"
+    },
+    {
+      "games": 26,
+      "profile": "https://lichess.org/@/arash_aminzadeh",
+      "rank": 36,
+      "rating": 1212,
+      "source": "Turnier",
+      "username": "arash_aminzadeh"
+    },
+    {
+      "games": 26,
+      "profile": "https://lichess.org/@/bhavygupta2014",
+      "rank": 37,
+      "rating": 1300,
+      "source": "Turnier",
+      "username": "bhavygupta2014"
+    },
+    {
+      "games": 26,
+      "profile": "https://lichess.org/@/david_88-murmur",
+      "rank": 38,
+      "rating": 1598,
+      "source": "Turnier",
+      "username": "david_88-murmur"
+    },
+    {
+      "games": 25,
+      "profile": "https://lichess.org/@/angadpande",
+      "rank": 39,
+      "rating": 1194,
+      "source": "Turnier",
+      "username": "angadpande"
+    },
+    {
+      "games": 23,
+      "profile": "https://lichess.org/@/avni3005",
+      "rank": 40,
+      "rating": 1299,
+      "source": "Turnier",
+      "username": "avni3005"
+    },
+    {
+      "games": 21,
+      "profile": "https://lichess.org/@/aaravpcvk",
+      "rank": 41,
+      "rating": 1392,
+      "source": "Turnier",
+      "username": "aaravpcvk"
+    },
+    {
+      "games": 19,
+      "profile": "https://lichess.org/@/andrew-po-streamer",
+      "rank": 42,
+      "rating": 1522,
+      "source": "Turnier",
+      "username": "andrew-po-streamer"
+    },
+    {
+      "games": 19,
+      "profile": "https://lichess.org/@/babazeba",
+      "rank": 43,
+      "rating": 1576,
+      "source": "Turnier",
+      "username": "babazeba"
+    },
+    {
+      "games": 17,
+      "profile": "https://lichess.org/@/alittlenowmorelater",
+      "rank": 44,
+      "rating": 1577,
+      "source": "Turnier",
+      "username": "alittlenowmorelater"
+    },
+    {
+      "games": 17,
+      "profile": "https://lichess.org/@/aurelll",
+      "rank": 45,
+      "rating": 1622,
+      "source": "Turnier",
+      "username": "aurelll"
+    },
+    {
+      "games": 15,
+      "profile": "https://lichess.org/@/adlinerijo",
+      "rank": 46,
+      "rating": 885,
+      "source": "Turnier",
+      "username": "adlinerijo"
+    },
+    {
+      "games": 15,
+      "profile": "https://lichess.org/@/azizos1209benkrayem",
+      "rank": 47,
+      "rating": 1535,
+      "source": "Turnier",
+      "username": "azizos1209benkrayem"
+    },
+    {
+      "games": 14,
+      "profile": "https://lichess.org/@/chesshatrick",
+      "rank": 48,
+      "rating": 1402,
+      "source": "Turnier",
+      "username": "chesshatrick"
+    },
+    {
+      "games": 13,
+      "profile": "https://lichess.org/@/aryan_chauhan",
+      "rank": 49,
+      "rating": 1201,
+      "source": "Turnier",
+      "username": "aryan_chauhan"
+    },
+    {
+      "games": 13,
+      "profile": "https://lichess.org/@/bss1984",
+      "rank": 50,
+      "rating": 1274,
+      "source": "Turnier",
+      "username": "bss1984"
+    },
+    {
+      "games": 13,
+      "profile": "https://lichess.org/@/decisivecat",
+      "rank": 51,
+      "rating": 1145,
+      "source": "Turnier",
+      "username": "decisivecat"
+    },
+    {
+      "games": 12,
+      "profile": "https://lichess.org/@/bhdminhtuan",
+      "rank": 52,
+      "rating": 1492,
+      "source": "Turnier",
+      "username": "bhdminhtuan"
+    },
+    {
+      "games": 11,
+      "profile": "https://lichess.org/@/alex_gaziev",
+      "rank": 53,
+      "rating": 1615,
+      "source": "Turnier",
+      "username": "alex_gaziev"
+    },
+    {
+      "games": 11,
+      "profile": "https://lichess.org/@/bognar3",
+      "rank": 54,
+      "rating": 1661,
+      "source": "Turnier",
+      "username": "bognar3"
+    },
+    {
+      "games": 10,
+      "profile": "https://lichess.org/@/chat_vip",
+      "rank": 55,
+      "rating": 1614,
+      "source": "Turnier",
+      "username": "chat_vip"
+    },
+    {
+      "games": 6,
+      "profile": "https://lichess.org/@/aloket",
+      "rank": 56,
+      "rating": 1538,
+      "source": "Turnier",
+      "username": "aloket"
+    },
+    {
+      "games": 6,
+      "profile": "https://lichess.org/@/avukat123",
+      "rank": 57,
+      "rating": 1401,
+      "source": "Turnier",
+      "username": "avukat123"
+    },
+    {
+      "games": 5,
+      "profile": "https://lichess.org/@/a050608",
+      "rank": 58,
+      "rating": 1476,
+      "source": "Turnier",
+      "username": "a050608"
+    },
+    {
+      "games": 4,
+      "profile": "https://lichess.org/@/adarsh201630",
+      "rank": 59,
+      "rating": 1671,
+      "source": "Turnier",
+      "username": "adarsh201630"
+    },
+    {
+      "games": 3,
+      "profile": "https://lichess.org/@/ahasna2015",
+      "rank": 60,
+      "rating": 1170,
+      "source": "Turnier",
+      "username": "ahasna2015"
+    },
+    {
+      "games": 3,
+      "profile": "https://lichess.org/@/brianosundwa",
+      "rank": 61,
+      "rating": 1663,
+      "source": "Turnier",
+      "username": "brianosundwa"
+    },
+    {
+      "games": 2,
+      "profile": "https://lichess.org/@/axolotl88",
+      "rank": 62,
+      "rating": 1508,
+      "source": "Turnier",
+      "username": "axolotl88"
+    },
+    {
+      "games": 1,
+      "profile": "https://lichess.org/@/anesh0310",
+      "rank": 63,
+      "rating": 1260,
+      "source": "Turnier",
+      "username": "anesh0310"
+    }
+  ],
+  "updated_at": "2026-07-28T14:46:25.849298+00:00"
+}
