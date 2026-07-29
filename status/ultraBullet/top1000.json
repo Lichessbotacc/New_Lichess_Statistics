@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-07-29T15:04:15.388936+00:00",
+  "updated_at": "2026-07-29T15:20:23.118748+00:00",
   "since_days": 7,
   "top10": [
     {
       "rank": 1,
       "username": "lumbrerosky",
-      "games": 3343,
+      "games": 3598,
       "rating": 1991,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/lumbrerosky"
@@ -469,7 +469,7 @@
     {
       "rank": 59,
       "username": "softnankarov",
-      "games": 772,
+      "games": 770,
       "rating": 1606,
       "source": "Turnier",
       "profile": "https://lichess.org/@/softnankarov"
@@ -4716,14 +4716,6 @@
     },
     {
       "rank": 590,
-      "username": "thiago_hurtado",
-      "games": 145,
-      "rating": 1844,
-      "source": "Lobby-Crawl",
-      "profile": "https://lichess.org/@/thiago_hurtado"
-    },
-    {
-      "rank": 591,
       "username": "too6ick",
       "games": 145,
       "rating": 2049,
@@ -4731,7 +4723,7 @@
       "profile": "https://lichess.org/@/too6ick"
     },
     {
-      "rank": 592,
+      "rank": 591,
       "username": "acsf",
       "games": 144,
       "rating": 1635,
@@ -4739,7 +4731,7 @@
       "profile": "https://lichess.org/@/acsf"
     },
     {
-      "rank": 593,
+      "rank": 592,
       "username": "black-sky-1",
       "games": 144,
       "rating": 1836,
@@ -4747,7 +4739,7 @@
       "profile": "https://lichess.org/@/black-sky-1"
     },
     {
-      "rank": 594,
+      "rank": 593,
       "username": "deechu123",
       "games": 144,
       "rating": 2068,
@@ -4755,12 +4747,20 @@
       "profile": "https://lichess.org/@/deechu123"
     },
     {
-      "rank": 595,
+      "rank": 594,
       "username": "es-dlite",
       "games": 144,
       "rating": 1333,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/es-dlite"
+    },
+    {
+      "rank": 595,
+      "username": "thiago_hurtado",
+      "games": 144,
+      "rating": 1844,
+      "source": "Lobby-Crawl",
+      "profile": "https://lichess.org/@/thiago_hurtado"
     },
     {
       "rank": 596,
