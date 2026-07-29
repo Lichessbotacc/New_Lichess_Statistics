@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-29T18:03:01.625004+00:00",
+  "updated_at": "2026-07-29T18:08:01.935791+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -204,14 +204,6 @@
     },
     {
       "rank": 26,
-      "username": "chess_training_2021",
-      "games": 1065,
-      "rating": 2245,
-      "source": "Turnier",
-      "profile": "https://lichess.org/@/chess_training_2021"
-    },
-    {
-      "rank": 27,
       "username": "hajeko",
       "games": 1065,
       "rating": 2331,
@@ -219,7 +211,7 @@
       "profile": "https://lichess.org/@/hajeko"
     },
     {
-      "rank": 28,
+      "rank": 27,
       "username": "mrsst",
       "games": 1061,
       "rating": 2074,
@@ -227,12 +219,20 @@
       "profile": "https://lichess.org/@/mrsst"
     },
     {
-      "rank": 29,
+      "rank": 28,
       "username": "skt-2010",
       "games": 1054,
       "rating": 2221,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/skt-2010"
+    },
+    {
+      "rank": 29,
+      "username": "chess_training_2021",
+      "games": 1042,
+      "rating": 2245,
+      "source": "Turnier",
+      "profile": "https://lichess.org/@/chess_training_2021"
     },
     {
       "rank": 30,
