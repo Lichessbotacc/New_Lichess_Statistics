@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-29T13:32:04.735989+00:00",
+  "updated_at": "2026-07-29T13:37:46.774291+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -44,14 +44,6 @@
     },
     {
       "rank": 6,
-      "username": "landmar",
-      "games": 1570,
-      "rating": 1782,
-      "source": "Turnier",
-      "profile": "https://lichess.org/@/landmar"
-    },
-    {
-      "rank": 7,
       "username": "weaky_player",
       "games": 1505,
       "rating": 2498,
@@ -59,12 +51,20 @@
       "profile": "https://lichess.org/@/weaky_player"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "username": "teletopi",
       "games": 1497,
       "rating": 1040,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/teletopi"
+    },
+    {
+      "rank": 8,
+      "username": "landmar",
+      "games": 1473,
+      "rating": 1782,
+      "source": "Turnier",
+      "profile": "https://lichess.org/@/landmar"
     },
     {
       "rank": 9,
