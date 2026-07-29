@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-29T18:11:53.454532+00:00",
+  "updated_at": "2026-07-29T18:17:00.705183+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -732,14 +732,6 @@
     },
     {
       "rank": 92,
-      "username": "darkener",
-      "games": 406,
-      "rating": 1645,
-      "source": "Turnier",
-      "profile": "https://lichess.org/@/darkener"
-    },
-    {
-      "rank": 93,
       "username": "geol291",
       "games": 406,
       "rating": 1748,
@@ -747,7 +739,7 @@
       "profile": "https://lichess.org/@/geol291"
     },
     {
-      "rank": 94,
+      "rank": 93,
       "username": "mahdi74222",
       "games": 406,
       "rating": 1423,
@@ -755,7 +747,7 @@
       "profile": "https://lichess.org/@/mahdi74222"
     },
     {
-      "rank": 95,
+      "rank": 94,
       "username": "baagii1976",
       "games": 405,
       "rating": 2021,
@@ -763,12 +755,20 @@
       "profile": "https://lichess.org/@/baagii1976"
     },
     {
-      "rank": 96,
+      "rank": 95,
       "username": "partisan54",
       "games": 405,
       "rating": 1806,
       "source": "Turnier",
       "profile": "https://lichess.org/@/partisan54"
+    },
+    {
+      "rank": 96,
+      "username": "darkener",
+      "games": 404,
+      "rating": 1645,
+      "source": "Turnier",
+      "profile": "https://lichess.org/@/darkener"
     },
     {
       "rank": 97,
@@ -1836,6 +1836,14 @@
     },
     {
       "rank": 230,
+      "username": "danicaba",
+      "games": 322,
+      "rating": 1949,
+      "source": "Turnier",
+      "profile": "https://lichess.org/@/danicaba"
+    },
+    {
+      "rank": 231,
       "username": "panamaster",
       "games": 322,
       "rating": 2046,
@@ -1843,7 +1851,7 @@
       "profile": "https://lichess.org/@/panamaster"
     },
     {
-      "rank": 231,
+      "rank": 232,
       "username": "aligeidarov",
       "games": 321,
       "rating": 2251,
@@ -1851,7 +1859,7 @@
       "profile": "https://lichess.org/@/aligeidarov"
     },
     {
-      "rank": 232,
+      "rank": 233,
       "username": "peonrojo",
       "games": 321,
       "rating": 1477,
@@ -1859,7 +1867,7 @@
       "profile": "https://lichess.org/@/peonrojo"
     },
     {
-      "rank": 233,
+      "rank": 234,
       "username": "zelenlol",
       "games": 321,
       "rating": 1349,
@@ -1867,7 +1875,7 @@
       "profile": "https://lichess.org/@/zelenlol"
     },
     {
-      "rank": 234,
+      "rank": 235,
       "username": "russell01",
       "games": 320,
       "rating": 1954,
@@ -1875,7 +1883,7 @@
       "profile": "https://lichess.org/@/russell01"
     },
     {
-      "rank": 235,
+      "rank": 236,
       "username": "xavounet",
       "games": 320,
       "rating": 1344,
@@ -1883,7 +1891,7 @@
       "profile": "https://lichess.org/@/xavounet"
     },
     {
-      "rank": 236,
+      "rank": 237,
       "username": "haswelmw",
       "games": 319,
       "rating": 1972,
@@ -1891,7 +1899,7 @@
       "profile": "https://lichess.org/@/haswelmw"
     },
     {
-      "rank": 237,
+      "rank": 238,
       "username": "oganes1961",
       "games": 319,
       "rating": 1658,
@@ -1899,7 +1907,7 @@
       "profile": "https://lichess.org/@/oganes1961"
     },
     {
-      "rank": 238,
+      "rank": 239,
       "username": "peteclay",
       "games": 319,
       "rating": 1355,
@@ -1907,7 +1915,7 @@
       "profile": "https://lichess.org/@/peteclay"
     },
     {
-      "rank": 239,
+      "rank": 240,
       "username": "ylli_blin",
       "games": 319,
       "rating": 2034,
@@ -1915,7 +1923,7 @@
       "profile": "https://lichess.org/@/ylli_blin"
     },
     {
-      "rank": 240,
+      "rank": 241,
       "username": "judesamarasinghe",
       "games": 318,
       "rating": 2083,
@@ -1923,7 +1931,7 @@
       "profile": "https://lichess.org/@/judesamarasinghe"
     },
     {
-      "rank": 241,
+      "rank": 242,
       "username": "nkr10",
       "games": 318,
       "rating": 1475,
@@ -1931,7 +1939,7 @@
       "profile": "https://lichess.org/@/nkr10"
     },
     {
-      "rank": 242,
+      "rank": 243,
       "username": "aapleskanev",
       "games": 317,
       "rating": 1885,
@@ -1939,7 +1947,7 @@
       "profile": "https://lichess.org/@/aapleskanev"
     },
     {
-      "rank": 243,
+      "rank": 244,
       "username": "bachess_2024",
       "games": 317,
       "rating": 1772,
@@ -1947,7 +1955,7 @@
       "profile": "https://lichess.org/@/bachess_2024"
     },
     {
-      "rank": 244,
+      "rank": 245,
       "username": "cakirhizir",
       "games": 317,
       "rating": 1537,
@@ -1955,7 +1963,7 @@
       "profile": "https://lichess.org/@/cakirhizir"
     },
     {
-      "rank": 245,
+      "rank": 246,
       "username": "coacha1",
       "games": 317,
       "rating": 1588,
@@ -1963,7 +1971,7 @@
       "profile": "https://lichess.org/@/coacha1"
     },
     {
-      "rank": 246,
+      "rank": 247,
       "username": "adin0919",
       "games": 315,
       "rating": 1670,
@@ -1971,7 +1979,7 @@
       "profile": "https://lichess.org/@/adin0919"
     },
     {
-      "rank": 247,
+      "rank": 248,
       "username": "fezzle",
       "games": 315,
       "rating": 1039,
@@ -1979,7 +1987,7 @@
       "profile": "https://lichess.org/@/fezzle"
     },
     {
-      "rank": 248,
+      "rank": 249,
       "username": "nampar",
       "games": 315,
       "rating": 1830,
@@ -1987,7 +1995,7 @@
       "profile": "https://lichess.org/@/nampar"
     },
     {
-      "rank": 249,
+      "rank": 250,
       "username": "qbwankenobi",
       "games": 315,
       "rating": 1083,
@@ -1995,20 +2003,12 @@
       "profile": "https://lichess.org/@/qbwankenobi"
     },
     {
-      "rank": 250,
+      "rank": 251,
       "username": "tonyshark0",
       "games": 315,
       "rating": 1385,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/tonyshark0"
-    },
-    {
-      "rank": 251,
-      "username": "danicaba",
-      "games": 314,
-      "rating": 1949,
-      "source": "Turnier",
-      "profile": "https://lichess.org/@/danicaba"
     },
     {
       "rank": 252,
