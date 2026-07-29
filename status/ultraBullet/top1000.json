@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-29T15:25:23.847522+00:00",
+  "updated_at": "2026-07-29T15:30:55.368930+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -52,14 +52,6 @@
     },
     {
       "rank": 7,
-      "username": "chaktic_gaming",
-      "games": 1545,
-      "rating": 1842,
-      "source": "Turnier",
-      "profile": "https://lichess.org/@/chaktic_gaming"
-    },
-    {
-      "rank": 8,
       "username": "casualchess420",
       "games": 1453,
       "rating": 1960,
@@ -67,7 +59,7 @@
       "profile": "https://lichess.org/@/casualchess420"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "username": "shawnrogan",
       "games": 1386,
       "rating": 2075,
@@ -75,7 +67,7 @@
       "profile": "https://lichess.org/@/shawnrogan"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "username": "myfavtrajectory",
       "games": 1354,
       "rating": 2243,
@@ -83,7 +75,7 @@
       "profile": "https://lichess.org/@/myfavtrajectory"
     },
     {
-      "rank": 11,
+      "rank": 10,
       "username": "estratega64",
       "games": 1343,
       "rating": 1933,
@@ -91,7 +83,7 @@
       "profile": "https://lichess.org/@/estratega64"
     },
     {
-      "rank": 12,
+      "rank": 11,
       "username": "y0ung_12345",
       "games": 1341,
       "rating": 2321,
@@ -99,12 +91,20 @@
       "profile": "https://lichess.org/@/y0ung_12345"
     },
     {
-      "rank": 13,
+      "rank": 12,
       "username": "srcapivara",
       "games": 1333,
       "rating": 1826,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/srcapivara"
+    },
+    {
+      "rank": 13,
+      "username": "chaktic_gaming",
+      "games": 1303,
+      "rating": 1842,
+      "source": "Turnier",
+      "profile": "https://lichess.org/@/chaktic_gaming"
     },
     {
       "rank": 14,
@@ -2932,6 +2932,14 @@
     },
     {
       "rank": 367,
+      "username": "chavyaan",
+      "games": 241,
+      "rating": 1458,
+      "source": "Lobby-Crawl",
+      "profile": "https://lichess.org/@/chavyaan"
+    },
+    {
+      "rank": 368,
       "username": "pastshockedfireman",
       "games": 241,
       "rating": 2080,
@@ -2939,7 +2947,7 @@
       "profile": "https://lichess.org/@/pastshockedfireman"
     },
     {
-      "rank": 368,
+      "rank": 369,
       "username": "zugzwang911",
       "games": 241,
       "rating": 2134,
@@ -2947,7 +2955,7 @@
       "profile": "https://lichess.org/@/zugzwang911"
     },
     {
-      "rank": 369,
+      "rank": 370,
       "username": "coffeebite005",
       "games": 240,
       "rating": 1861,
@@ -2955,7 +2963,7 @@
       "profile": "https://lichess.org/@/coffeebite005"
     },
     {
-      "rank": 370,
+      "rank": 371,
       "username": "levandovckii",
       "games": 240,
       "rating": 2191,
@@ -2963,7 +2971,7 @@
       "profile": "https://lichess.org/@/levandovckii"
     },
     {
-      "rank": 371,
+      "rank": 372,
       "username": "c21cool",
       "games": 239,
       "rating": 985,
@@ -2971,7 +2979,7 @@
       "profile": "https://lichess.org/@/c21cool"
     },
     {
-      "rank": 372,
+      "rank": 373,
       "username": "nightant",
       "games": 239,
       "rating": 1853,
@@ -2979,7 +2987,7 @@
       "profile": "https://lichess.org/@/nightant"
     },
     {
-      "rank": 373,
+      "rank": 374,
       "username": "skdav",
       "games": 239,
       "rating": 1703,
@@ -2987,7 +2995,7 @@
       "profile": "https://lichess.org/@/skdav"
     },
     {
-      "rank": 374,
+      "rank": 375,
       "username": "r_bhowmik",
       "games": 238,
       "rating": 1765,
@@ -2995,7 +3003,7 @@
       "profile": "https://lichess.org/@/r_bhowmik"
     },
     {
-      "rank": 375,
+      "rank": 376,
       "username": "the-ironbulletpanda",
       "games": 237,
       "rating": 1555,
@@ -3003,7 +3011,7 @@
       "profile": "https://lichess.org/@/the-ironbulletpanda"
     },
     {
-      "rank": 376,
+      "rank": 377,
       "username": "cosmos_evolution",
       "games": 236,
       "rating": 2074,
@@ -3011,7 +3019,7 @@
       "profile": "https://lichess.org/@/cosmos_evolution"
     },
     {
-      "rank": 377,
+      "rank": 378,
       "username": "ivan_master_32",
       "games": 235,
       "rating": 1478,
@@ -3019,7 +3027,7 @@
       "profile": "https://lichess.org/@/ivan_master_32"
     },
     {
-      "rank": 378,
+      "rank": 379,
       "username": "maffaka_fan",
       "games": 235,
       "rating": 1852,
@@ -3027,7 +3035,7 @@
       "profile": "https://lichess.org/@/maffaka_fan"
     },
     {
-      "rank": 379,
+      "rank": 380,
       "username": "schachgenie",
       "games": 235,
       "rating": 1901,
@@ -3035,7 +3043,7 @@
       "profile": "https://lichess.org/@/schachgenie"
     },
     {
-      "rank": 380,
+      "rank": 381,
       "username": "fey-loong",
       "games": 234,
       "rating": 1516,
@@ -3043,7 +3051,7 @@
       "profile": "https://lichess.org/@/fey-loong"
     },
     {
-      "rank": 381,
+      "rank": 382,
       "username": "luis_santanita",
       "games": 234,
       "rating": 1880,
@@ -3051,7 +3059,7 @@
       "profile": "https://lichess.org/@/luis_santanita"
     },
     {
-      "rank": 382,
+      "rank": 383,
       "username": "kolv",
       "games": 233,
       "rating": 2026,
@@ -3059,7 +3067,7 @@
       "profile": "https://lichess.org/@/kolv"
     },
     {
-      "rank": 383,
+      "rank": 384,
       "username": "rumex777",
       "games": 232,
       "rating": 1463,
@@ -3067,7 +3075,7 @@
       "profile": "https://lichess.org/@/rumex777"
     },
     {
-      "rank": 384,
+      "rank": 385,
       "username": "deadlyinterval",
       "games": 231,
       "rating": 2036,
@@ -3075,7 +3083,7 @@
       "profile": "https://lichess.org/@/deadlyinterval"
     },
     {
-      "rank": 385,
+      "rank": 386,
       "username": "thomas0523",
       "games": 231,
       "rating": 2065,
@@ -3083,7 +3091,7 @@
       "profile": "https://lichess.org/@/thomas0523"
     },
     {
-      "rank": 386,
+      "rank": 387,
       "username": "john10001",
       "games": 230,
       "rating": 1715,
@@ -3091,7 +3099,7 @@
       "profile": "https://lichess.org/@/john10001"
     },
     {
-      "rank": 387,
+      "rank": 388,
       "username": "mohammadf11",
       "games": 230,
       "rating": 1642,
@@ -3099,7 +3107,7 @@
       "profile": "https://lichess.org/@/mohammadf11"
     },
     {
-      "rank": 388,
+      "rank": 389,
       "username": "anantha17chess",
       "games": 229,
       "rating": 1329,
@@ -3107,7 +3115,7 @@
       "profile": "https://lichess.org/@/anantha17chess"
     },
     {
-      "rank": 389,
+      "rank": 390,
       "username": "phone-zerk",
       "games": 229,
       "rating": 2064,
@@ -3115,7 +3123,7 @@
       "profile": "https://lichess.org/@/phone-zerk"
     },
     {
-      "rank": 390,
+      "rank": 391,
       "username": "jhon34",
       "games": 228,
       "rating": 1915,
@@ -3123,7 +3131,7 @@
       "profile": "https://lichess.org/@/jhon34"
     },
     {
-      "rank": 391,
+      "rank": 392,
       "username": "jmjbless",
       "games": 228,
       "rating": 2054,
@@ -3131,7 +3139,7 @@
       "profile": "https://lichess.org/@/jmjbless"
     },
     {
-      "rank": 392,
+      "rank": 393,
       "username": "noirtempo",
       "games": 228,
       "rating": 1614,
@@ -3139,7 +3147,7 @@
       "profile": "https://lichess.org/@/noirtempo"
     },
     {
-      "rank": 393,
+      "rank": 394,
       "username": "tb-oficiall-account",
       "games": 228,
       "rating": 1965,
@@ -3147,7 +3155,7 @@
       "profile": "https://lichess.org/@/tb-oficiall-account"
     },
     {
-      "rank": 394,
+      "rank": 395,
       "username": "ivy0911",
       "games": 224,
       "rating": 1439,
@@ -3155,7 +3163,7 @@
       "profile": "https://lichess.org/@/ivy0911"
     },
     {
-      "rank": 395,
+      "rank": 396,
       "username": "run_your_king",
       "games": 224,
       "rating": 1774,
@@ -3163,7 +3171,7 @@
       "profile": "https://lichess.org/@/run_your_king"
     },
     {
-      "rank": 396,
+      "rank": 397,
       "username": "dangby2017",
       "games": 221,
       "rating": 1525,
@@ -3171,7 +3179,7 @@
       "profile": "https://lichess.org/@/dangby2017"
     },
     {
-      "rank": 397,
+      "rank": 398,
       "username": "lkman27",
       "games": 221,
       "rating": 1905,
@@ -3179,7 +3187,7 @@
       "profile": "https://lichess.org/@/lkman27"
     },
     {
-      "rank": 398,
+      "rank": 399,
       "username": "nemo68",
       "games": 220,
       "rating": 1567,
@@ -3187,7 +3195,7 @@
       "profile": "https://lichess.org/@/nemo68"
     },
     {
-      "rank": 399,
+      "rank": 400,
       "username": "corporatehandshake",
       "games": 219,
       "rating": 1900,
@@ -3195,7 +3203,7 @@
       "profile": "https://lichess.org/@/corporatehandshake"
     },
     {
-      "rank": 400,
+      "rank": 401,
       "username": "botswana_chess",
       "games": 218,
       "rating": 1822,
@@ -3203,7 +3211,7 @@
       "profile": "https://lichess.org/@/botswana_chess"
     },
     {
-      "rank": 401,
+      "rank": 402,
       "username": "arokya_paul",
       "games": 217,
       "rating": 1853,
@@ -3211,7 +3219,7 @@
       "profile": "https://lichess.org/@/arokya_paul"
     },
     {
-      "rank": 402,
+      "rank": 403,
       "username": "businessmane",
       "games": 217,
       "rating": 1752,
@@ -3219,7 +3227,7 @@
       "profile": "https://lichess.org/@/businessmane"
     },
     {
-      "rank": 403,
+      "rank": 404,
       "username": "so_amazing",
       "games": 217,
       "rating": 1930,
@@ -3227,7 +3235,7 @@
       "profile": "https://lichess.org/@/so_amazing"
     },
     {
-      "rank": 404,
+      "rank": 405,
       "username": "eratoula2014",
       "games": 216,
       "rating": 1321,
@@ -3235,7 +3243,7 @@
       "profile": "https://lichess.org/@/eratoula2014"
     },
     {
-      "rank": 405,
+      "rank": 406,
       "username": "jlqr",
       "games": 216,
       "rating": 1726,
@@ -3243,7 +3251,7 @@
       "profile": "https://lichess.org/@/jlqr"
     },
     {
-      "rank": 406,
+      "rank": 407,
       "username": "neevsuperb03",
       "games": 216,
       "rating": 1309,
@@ -3251,7 +3259,7 @@
       "profile": "https://lichess.org/@/neevsuperb03"
     },
     {
-      "rank": 407,
+      "rank": 408,
       "username": "funfencecreek",
       "games": 215,
       "rating": 1706,
@@ -3259,7 +3267,7 @@
       "profile": "https://lichess.org/@/funfencecreek"
     },
     {
-      "rank": 408,
+      "rank": 409,
       "username": "rllv",
       "games": 215,
       "rating": 1446,
@@ -3267,7 +3275,7 @@
       "profile": "https://lichess.org/@/rllv"
     },
     {
-      "rank": 409,
+      "rank": 410,
       "username": "elpetitrei",
       "games": 212,
       "rating": 2410,
@@ -3275,7 +3283,7 @@
       "profile": "https://lichess.org/@/elpetitrei"
     },
     {
-      "rank": 410,
+      "rank": 411,
       "username": "healer69",
       "games": 212,
       "rating": 2000,
@@ -3283,7 +3291,7 @@
       "profile": "https://lichess.org/@/healer69"
     },
     {
-      "rank": 411,
+      "rank": 412,
       "username": "fun-way",
       "games": 210,
       "rating": 1406,
@@ -3291,7 +3299,7 @@
       "profile": "https://lichess.org/@/fun-way"
     },
     {
-      "rank": 412,
+      "rank": 413,
       "username": "iiiixscyzorykxiiii",
       "games": 210,
       "rating": 1901,
@@ -3299,7 +3307,7 @@
       "profile": "https://lichess.org/@/iiiixscyzorykxiiii"
     },
     {
-      "rank": 413,
+      "rank": 414,
       "username": "mdcard",
       "games": 210,
       "rating": 1487,
@@ -3307,7 +3315,7 @@
       "profile": "https://lichess.org/@/mdcard"
     },
     {
-      "rank": 414,
+      "rank": 415,
       "username": "py028",
       "games": 210,
       "rating": 1401,
@@ -3315,7 +3323,7 @@
       "profile": "https://lichess.org/@/py028"
     },
     {
-      "rank": 415,
+      "rank": 416,
       "username": "evgeniimonge2001",
       "games": 209,
       "rating": 2131,
@@ -3323,7 +3331,7 @@
       "profile": "https://lichess.org/@/evgeniimonge2001"
     },
     {
-      "rank": 416,
+      "rank": 417,
       "username": "olegb-v",
       "games": 208,
       "rating": 2241,
@@ -3331,7 +3339,7 @@
       "profile": "https://lichess.org/@/olegb-v"
     },
     {
-      "rank": 417,
+      "rank": 418,
       "username": "kozenkovvalera",
       "games": 207,
       "rating": 2227,
@@ -3339,7 +3347,7 @@
       "profile": "https://lichess.org/@/kozenkovvalera"
     },
     {
-      "rank": 418,
+      "rank": 419,
       "username": "adhvikmanoj",
       "games": 206,
       "rating": 1778,
@@ -3347,7 +3355,7 @@
       "profile": "https://lichess.org/@/adhvikmanoj"
     },
     {
-      "rank": 419,
+      "rank": 420,
       "username": "babymagnus_boss_2016",
       "games": 205,
       "rating": 1898,
@@ -3355,7 +3363,7 @@
       "profile": "https://lichess.org/@/babymagnus_boss_2016"
     },
     {
-      "rank": 420,
+      "rank": 421,
       "username": "jurttyn_balasy",
       "games": 205,
       "rating": 1815,
@@ -3363,7 +3371,7 @@
       "profile": "https://lichess.org/@/jurttyn_balasy"
     },
     {
-      "rank": 421,
+      "rank": 422,
       "username": "lev_bartosh",
       "games": 205,
       "rating": 1517,
@@ -3371,7 +3379,7 @@
       "profile": "https://lichess.org/@/lev_bartosh"
     },
     {
-      "rank": 422,
+      "rank": 423,
       "username": "xxxmegatronxxx",
       "games": 205,
       "rating": 1963,
@@ -3379,7 +3387,7 @@
       "profile": "https://lichess.org/@/xxxmegatronxxx"
     },
     {
-      "rank": 423,
+      "rank": 424,
       "username": "jakob-s-2015",
       "games": 204,
       "rating": 1961,
@@ -3387,7 +3395,7 @@
       "profile": "https://lichess.org/@/jakob-s-2015"
     },
     {
-      "rank": 424,
+      "rank": 425,
       "username": "snadobskiy",
       "games": 204,
       "rating": 1989,
@@ -3395,7 +3403,7 @@
       "profile": "https://lichess.org/@/snadobskiy"
     },
     {
-      "rank": 425,
+      "rank": 426,
       "username": "oneandonlyfrog",
       "games": 203,
       "rating": 1890,
@@ -3403,7 +3411,7 @@
       "profile": "https://lichess.org/@/oneandonlyfrog"
     },
     {
-      "rank": 426,
+      "rank": 427,
       "username": "zhrakos",
       "games": 203,
       "rating": 1806,
@@ -3411,7 +3419,7 @@
       "profile": "https://lichess.org/@/zhrakos"
     },
     {
-      "rank": 427,
+      "rank": 428,
       "username": "amim",
       "games": 202,
       "rating": 1536,
@@ -3419,7 +3427,7 @@
       "profile": "https://lichess.org/@/amim"
     },
     {
-      "rank": 428,
+      "rank": 429,
       "username": "baker609",
       "games": 202,
       "rating": 1687,
@@ -3427,7 +3435,7 @@
       "profile": "https://lichess.org/@/baker609"
     },
     {
-      "rank": 429,
+      "rank": 430,
       "username": "morgunov_v",
       "games": 202,
       "rating": 1713,
@@ -3435,7 +3443,7 @@
       "profile": "https://lichess.org/@/morgunov_v"
     },
     {
-      "rank": 430,
+      "rank": 431,
       "username": "stargitr_love",
       "games": 202,
       "rating": 1054,
@@ -3443,7 +3451,7 @@
       "profile": "https://lichess.org/@/stargitr_love"
     },
     {
-      "rank": 431,
+      "rank": 432,
       "username": "manepearxflamefrags",
       "games": 201,
       "rating": 1845,
@@ -3451,7 +3459,7 @@
       "profile": "https://lichess.org/@/manepearxflamefrags"
     },
     {
-      "rank": 432,
+      "rank": 433,
       "username": "virvasani",
       "games": 201,
       "rating": 1454,
@@ -3459,7 +3467,7 @@
       "profile": "https://lichess.org/@/virvasani"
     },
     {
-      "rank": 433,
+      "rank": 434,
       "username": "edodudu",
       "games": 200,
       "rating": 1518,
@@ -3467,7 +3475,7 @@
       "profile": "https://lichess.org/@/edodudu"
     },
     {
-      "rank": 434,
+      "rank": 435,
       "username": "knepachi",
       "games": 200,
       "rating": 1845,
@@ -3475,7 +3483,7 @@
       "profile": "https://lichess.org/@/knepachi"
     },
     {
-      "rank": 435,
+      "rank": 436,
       "username": "mozs1999",
       "games": 200,
       "rating": 1640,
@@ -3483,7 +3491,7 @@
       "profile": "https://lichess.org/@/mozs1999"
     },
     {
-      "rank": 436,
+      "rank": 437,
       "username": "account4bd",
       "games": 199,
       "rating": 1789,
@@ -3491,7 +3499,7 @@
       "profile": "https://lichess.org/@/account4bd"
     },
     {
-      "rank": 437,
+      "rank": 438,
       "username": "floppyflop",
       "games": 199,
       "rating": 1878,
@@ -3499,7 +3507,7 @@
       "profile": "https://lichess.org/@/floppyflop"
     },
     {
-      "rank": 438,
+      "rank": 439,
       "username": "furyscott",
       "games": 199,
       "rating": 1436,
@@ -3507,7 +3515,7 @@
       "profile": "https://lichess.org/@/furyscott"
     },
     {
-      "rank": 439,
+      "rank": 440,
       "username": "rick_30",
       "games": 199,
       "rating": 1678,
@@ -3515,7 +3523,7 @@
       "profile": "https://lichess.org/@/rick_30"
     },
     {
-      "rank": 440,
+      "rank": 441,
       "username": "stulda1",
       "games": 199,
       "rating": 1528,
@@ -3523,7 +3531,7 @@
       "profile": "https://lichess.org/@/stulda1"
     },
     {
-      "rank": 441,
+      "rank": 442,
       "username": "dreamsmorning48",
       "games": 198,
       "rating": 2102,
@@ -3531,7 +3539,7 @@
       "profile": "https://lichess.org/@/dreamsmorning48"
     },
     {
-      "rank": 442,
+      "rank": 443,
       "username": "playingbest234",
       "games": 198,
       "rating": 1753,
@@ -3539,7 +3547,7 @@
       "profile": "https://lichess.org/@/playingbest234"
     },
     {
-      "rank": 443,
+      "rank": 444,
       "username": "egemeneren39",
       "games": 197,
       "rating": 1608,
@@ -3547,7 +3555,7 @@
       "profile": "https://lichess.org/@/egemeneren39"
     },
     {
-      "rank": 444,
+      "rank": 445,
       "username": "eltabaco",
       "games": 196,
       "rating": 1562,
@@ -3555,7 +3563,7 @@
       "profile": "https://lichess.org/@/eltabaco"
     },
     {
-      "rank": 445,
+      "rank": 446,
       "username": "jschess1",
       "games": 196,
       "rating": 1969,
@@ -3563,7 +3571,7 @@
       "profile": "https://lichess.org/@/jschess1"
     },
     {
-      "rank": 446,
+      "rank": 447,
       "username": "chesskingmaina2",
       "games": 195,
       "rating": 1891,
@@ -3571,7 +3579,7 @@
       "profile": "https://lichess.org/@/chesskingmaina2"
     },
     {
-      "rank": 447,
+      "rank": 448,
       "username": "extcooljoe8onyt",
       "games": 195,
       "rating": 916,
@@ -3579,7 +3587,7 @@
       "profile": "https://lichess.org/@/extcooljoe8onyt"
     },
     {
-      "rank": 448,
+      "rank": 449,
       "username": "letmethinktwice",
       "games": 193,
       "rating": 1907,
@@ -3587,7 +3595,7 @@
       "profile": "https://lichess.org/@/letmethinktwice"
     },
     {
-      "rank": 449,
+      "rank": 450,
       "username": "alexz2012",
       "games": 192,
       "rating": 1935,
@@ -3595,7 +3603,7 @@
       "profile": "https://lichess.org/@/alexz2012"
     },
     {
-      "rank": 450,
+      "rank": 451,
       "username": "nonewthing",
       "games": 192,
       "rating": 1805,
@@ -3603,7 +3611,7 @@
       "profile": "https://lichess.org/@/nonewthing"
     },
     {
-      "rank": 451,
+      "rank": 452,
       "username": "sneedsfeedseed",
       "games": 192,
       "rating": 1921,
@@ -3611,7 +3619,7 @@
       "profile": "https://lichess.org/@/sneedsfeedseed"
     },
     {
-      "rank": 452,
+      "rank": 453,
       "username": "ayu20",
       "games": 191,
       "rating": 1360,
@@ -3619,7 +3627,7 @@
       "profile": "https://lichess.org/@/ayu20"
     },
     {
-      "rank": 453,
+      "rank": 454,
       "username": "felisinde",
       "games": 191,
       "rating": 1101,
@@ -3627,7 +3635,7 @@
       "profile": "https://lichess.org/@/felisinde"
     },
     {
-      "rank": 454,
+      "rank": 455,
       "username": "kidcanvas255",
       "games": 191,
       "rating": 1119,
@@ -3635,7 +3643,7 @@
       "profile": "https://lichess.org/@/kidcanvas255"
     },
     {
-      "rank": 455,
+      "rank": 456,
       "username": "aleks0804",
       "games": 190,
       "rating": 1549,
@@ -3643,7 +3651,7 @@
       "profile": "https://lichess.org/@/aleks0804"
     },
     {
-      "rank": 456,
+      "rank": 457,
       "username": "arcsonic_z",
       "games": 190,
       "rating": 1802,
@@ -3651,7 +3659,7 @@
       "profile": "https://lichess.org/@/arcsonic_z"
     },
     {
-      "rank": 457,
+      "rank": 458,
       "username": "dxkalakar_11",
       "games": 190,
       "rating": 1952,
@@ -3659,7 +3667,7 @@
       "profile": "https://lichess.org/@/dxkalakar_11"
     },
     {
-      "rank": 458,
+      "rank": 459,
       "username": "konstantin_zimarin",
       "games": 190,
       "rating": 1534,
@@ -3667,7 +3675,7 @@
       "profile": "https://lichess.org/@/konstantin_zimarin"
     },
     {
-      "rank": 459,
+      "rank": 460,
       "username": "thegangsta",
       "games": 189,
       "rating": 1802,
@@ -3675,7 +3683,7 @@
       "profile": "https://lichess.org/@/thegangsta"
     },
     {
-      "rank": 460,
+      "rank": 461,
       "username": "alphatik",
       "games": 188,
       "rating": 2101,
@@ -3683,7 +3691,7 @@
       "profile": "https://lichess.org/@/alphatik"
     },
     {
-      "rank": 461,
+      "rank": 462,
       "username": "elshad_mirza",
       "games": 188,
       "rating": 1682,
@@ -3691,7 +3699,7 @@
       "profile": "https://lichess.org/@/elshad_mirza"
     },
     {
-      "rank": 462,
+      "rank": 463,
       "username": "kavaliro",
       "games": 187,
       "rating": 1970,
@@ -3699,7 +3707,7 @@
       "profile": "https://lichess.org/@/kavaliro"
     },
     {
-      "rank": 463,
+      "rank": 464,
       "username": "ultrabullet_pro_boy",
       "games": 187,
       "rating": 1537,
@@ -3707,7 +3715,7 @@
       "profile": "https://lichess.org/@/ultrabullet_pro_boy"
     },
     {
-      "rank": 464,
+      "rank": 465,
       "username": "bekrombine",
       "games": 186,
       "rating": 1451,
@@ -3715,7 +3723,7 @@
       "profile": "https://lichess.org/@/bekrombine"
     },
     {
-      "rank": 465,
+      "rank": 466,
       "username": "adal15",
       "games": 185,
       "rating": 1326,
@@ -3723,7 +3731,7 @@
       "profile": "https://lichess.org/@/adal15"
     },
     {
-      "rank": 466,
+      "rank": 467,
       "username": "pocadilly",
       "games": 185,
       "rating": 1722,
@@ -3731,7 +3739,7 @@
       "profile": "https://lichess.org/@/pocadilly"
     },
     {
-      "rank": 467,
+      "rank": 468,
       "username": "seferlii2014",
       "games": 185,
       "rating": 1815,
@@ -3739,7 +3747,7 @@
       "profile": "https://lichess.org/@/seferlii2014"
     },
     {
-      "rank": 468,
+      "rank": 469,
       "username": "stetz",
       "games": 185,
       "rating": 1739,
@@ -3747,7 +3755,7 @@
       "profile": "https://lichess.org/@/stetz"
     },
     {
-      "rank": 469,
+      "rank": 470,
       "username": "investigation10",
       "games": 184,
       "rating": 1468,
@@ -3755,7 +3763,7 @@
       "profile": "https://lichess.org/@/investigation10"
     },
     {
-      "rank": 470,
+      "rank": 471,
       "username": "stanislav200",
       "games": 184,
       "rating": 1975,
@@ -3763,7 +3771,7 @@
       "profile": "https://lichess.org/@/stanislav200"
     },
     {
-      "rank": 471,
+      "rank": 472,
       "username": "yuvaan_rathi",
       "games": 184,
       "rating": 1114,
@@ -3771,7 +3779,7 @@
       "profile": "https://lichess.org/@/yuvaan_rathi"
     },
     {
-      "rank": 472,
+      "rank": 473,
       "username": "jazztraining",
       "games": 183,
       "rating": 2142,
@@ -3779,7 +3787,7 @@
       "profile": "https://lichess.org/@/jazztraining"
     },
     {
-      "rank": 473,
+      "rank": 474,
       "username": "pitcher3892",
       "games": 183,
       "rating": 2202,
@@ -3787,7 +3795,7 @@
       "profile": "https://lichess.org/@/pitcher3892"
     },
     {
-      "rank": 474,
+      "rank": 475,
       "username": "thewezi",
       "games": 183,
       "rating": 1748,
@@ -3795,7 +3803,7 @@
       "profile": "https://lichess.org/@/thewezi"
     },
     {
-      "rank": 475,
+      "rank": 476,
       "username": "babak2950",
       "games": 182,
       "rating": 1602,
@@ -3803,7 +3811,7 @@
       "profile": "https://lichess.org/@/babak2950"
     },
     {
-      "rank": 476,
+      "rank": 477,
       "username": "demonsareontheirway",
       "games": 182,
       "rating": 2255,
@@ -3811,7 +3819,7 @@
       "profile": "https://lichess.org/@/demonsareontheirway"
     },
     {
-      "rank": 477,
+      "rank": 478,
       "username": "alexemm477",
       "games": 181,
       "rating": 1609,
@@ -3819,7 +3827,7 @@
       "profile": "https://lichess.org/@/alexemm477"
     },
     {
-      "rank": 478,
+      "rank": 479,
       "username": "aris151082",
       "games": 181,
       "rating": 1638,
@@ -3827,7 +3835,7 @@
       "profile": "https://lichess.org/@/aris151082"
     },
     {
-      "rank": 479,
+      "rank": 480,
       "username": "bravic",
       "games": 181,
       "rating": 1998,
@@ -3835,7 +3843,7 @@
       "profile": "https://lichess.org/@/bravic"
     },
     {
-      "rank": 480,
+      "rank": 481,
       "username": "chipson35",
       "games": 181,
       "rating": 1545,
@@ -3843,7 +3851,7 @@
       "profile": "https://lichess.org/@/chipson35"
     },
     {
-      "rank": 481,
+      "rank": 482,
       "username": "sandex2641",
       "games": 181,
       "rating": 2288,
@@ -3851,7 +3859,7 @@
       "profile": "https://lichess.org/@/sandex2641"
     },
     {
-      "rank": 482,
+      "rank": 483,
       "username": "rocco07",
       "games": 180,
       "rating": 1648,
@@ -3859,7 +3867,7 @@
       "profile": "https://lichess.org/@/rocco07"
     },
     {
-      "rank": 483,
+      "rank": 484,
       "username": "b3_otp",
       "games": 179,
       "rating": 1949,
@@ -3867,7 +3875,7 @@
       "profile": "https://lichess.org/@/b3_otp"
     },
     {
-      "rank": 484,
+      "rank": 485,
       "username": "the_berserk_account",
       "games": 179,
       "rating": 2068,
@@ -3875,7 +3883,7 @@
       "profile": "https://lichess.org/@/the_berserk_account"
     },
     {
-      "rank": 485,
+      "rank": 486,
       "username": "ayanshkarna",
       "games": 178,
       "rating": 1465,
@@ -3883,7 +3891,7 @@
       "profile": "https://lichess.org/@/ayanshkarna"
     },
     {
-      "rank": 486,
+      "rank": 487,
       "username": "chesscoachfshr",
       "games": 178,
       "rating": 2191,
@@ -3891,7 +3899,7 @@
       "profile": "https://lichess.org/@/chesscoachfshr"
     },
     {
-      "rank": 487,
+      "rank": 488,
       "username": "djuz",
       "games": 178,
       "rating": 1656,
@@ -3899,7 +3907,7 @@
       "profile": "https://lichess.org/@/djuz"
     },
     {
-      "rank": 488,
+      "rank": 489,
       "username": "ilia_lukianov",
       "games": 178,
       "rating": 2003,
@@ -3907,7 +3915,7 @@
       "profile": "https://lichess.org/@/ilia_lukianov"
     },
     {
-      "rank": 489,
+      "rank": 490,
       "username": "iamintheairport",
       "games": 177,
       "rating": 1884,
@@ -3915,7 +3923,7 @@
       "profile": "https://lichess.org/@/iamintheairport"
     },
     {
-      "rank": 490,
+      "rank": 491,
       "username": "longpips",
       "games": 177,
       "rating": 1821,
@@ -3923,7 +3931,7 @@
       "profile": "https://lichess.org/@/longpips"
     },
     {
-      "rank": 491,
+      "rank": 492,
       "username": "sribna",
       "games": 177,
       "rating": 1516,
@@ -3931,7 +3939,7 @@
       "profile": "https://lichess.org/@/sribna"
     },
     {
-      "rank": 492,
+      "rank": 493,
       "username": "vasietanbienqibamos",
       "games": 177,
       "rating": 1216,
@@ -3939,20 +3947,12 @@
       "profile": "https://lichess.org/@/vasietanbienqibamos"
     },
     {
-      "rank": 493,
+      "rank": 494,
       "username": "xeibi",
       "games": 177,
       "rating": 2095,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/xeibi"
-    },
-    {
-      "rank": 494,
-      "username": "chavyaan",
-      "games": 176,
-      "rating": 1458,
-      "source": "Lobby-Crawl",
-      "profile": "https://lichess.org/@/chavyaan"
     },
     {
       "rank": 495,
