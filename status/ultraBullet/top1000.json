@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-29T14:39:36.519308+00:00",
+  "updated_at": "2026-07-29T14:47:33.388506+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -44,6 +44,14 @@
     },
     {
       "rank": 6,
+      "username": "nathanael01",
+      "games": 1561,
+      "rating": 2111,
+      "source": "Turnier",
+      "profile": "https://lichess.org/@/nathanael01"
+    },
+    {
+      "rank": 7,
       "username": "chaktic_gaming",
       "games": 1545,
       "rating": 1842,
@@ -51,20 +59,12 @@
       "profile": "https://lichess.org/@/chaktic_gaming"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "username": "casualchess420",
       "games": 1533,
       "rating": 1960,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/casualchess420"
-    },
-    {
-      "rank": 8,
-      "username": "nathanael01",
-      "games": 1493,
-      "rating": 2111,
-      "source": "Turnier",
-      "profile": "https://lichess.org/@/nathanael01"
     },
     {
       "rank": 9,
@@ -661,7 +661,7 @@
     {
       "rank": 83,
       "username": "amjathkhan1723",
-      "games": 664,
+      "games": 666,
       "rating": 1639,
       "source": "Turnier",
       "profile": "https://lichess.org/@/amjathkhan1723"
