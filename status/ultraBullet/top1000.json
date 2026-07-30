@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-30T01:45:05.459401+00:00",
+  "updated_at": "2026-07-30T01:50:19.187860+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -260,14 +260,6 @@
     },
     {
       "rank": 33,
-      "username": "fatdo",
-      "games": 990,
-      "rating": 1775,
-      "source": "Lobby-Crawl",
-      "profile": "https://lichess.org/@/fatdo"
-    },
-    {
-      "rank": 34,
       "username": "beautifulgirl123",
       "games": 989,
       "rating": 1828,
@@ -275,12 +267,20 @@
       "profile": "https://lichess.org/@/beautifulgirl123"
     },
     {
-      "rank": 35,
+      "rank": 34,
       "username": "anuragsri",
       "games": 986,
       "rating": 1947,
       "source": "Turnier",
       "profile": "https://lichess.org/@/anuragsri"
+    },
+    {
+      "rank": 35,
+      "username": "fatdo",
+      "games": 983,
+      "rating": 1775,
+      "source": "Lobby-Crawl",
+      "profile": "https://lichess.org/@/fatdo"
     },
     {
       "rank": 36,
