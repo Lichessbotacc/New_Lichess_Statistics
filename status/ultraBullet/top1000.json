@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-30T01:50:19.187860+00:00",
+  "updated_at": "2026-07-30T01:55:20.957090+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -4508,14 +4508,6 @@
     },
     {
       "rank": 564,
-      "username": "angelotafur_utp",
-      "games": 159,
-      "rating": 1523,
-      "source": "Lobby-Crawl",
-      "profile": "https://lichess.org/@/angelotafur_utp"
-    },
-    {
-      "rank": 565,
       "username": "juvisa45",
       "games": 159,
       "rating": 2001,
@@ -4523,7 +4515,7 @@
       "profile": "https://lichess.org/@/juvisa45"
     },
     {
-      "rank": 566,
+      "rank": 565,
       "username": "ladysac_o-o_1",
       "games": 159,
       "rating": 2061,
@@ -4531,7 +4523,7 @@
       "profile": "https://lichess.org/@/ladysac_o-o_1"
     },
     {
-      "rank": 567,
+      "rank": 566,
       "username": "player111217",
       "games": 159,
       "rating": 1479,
@@ -4539,7 +4531,7 @@
       "profile": "https://lichess.org/@/player111217"
     },
     {
-      "rank": 568,
+      "rank": 567,
       "username": "denzio",
       "games": 158,
       "rating": 1195,
@@ -4547,7 +4539,7 @@
       "profile": "https://lichess.org/@/denzio"
     },
     {
-      "rank": 569,
+      "rank": 568,
       "username": "ilya0510",
       "games": 158,
       "rating": 1751,
@@ -4555,12 +4547,20 @@
       "profile": "https://lichess.org/@/ilya0510"
     },
     {
-      "rank": 570,
+      "rank": 569,
       "username": "aarav0107",
       "games": 157,
       "rating": 1700,
       "source": "Turnier",
       "profile": "https://lichess.org/@/aarav0107"
+    },
+    {
+      "rank": 570,
+      "username": "angelotafur_utp",
+      "games": 157,
+      "rating": 1523,
+      "source": "Lobby-Crawl",
+      "profile": "https://lichess.org/@/angelotafur_utp"
     },
     {
       "rank": 571,
@@ -7972,14 +7972,6 @@
     },
     {
       "rank": 997,
-      "username": "alwaysplay_f6",
-      "games": 85,
-      "rating": 1594,
-      "source": "Lobby-Crawl",
-      "profile": "https://lichess.org/@/alwaysplay_f6"
-    },
-    {
-      "rank": 998,
       "username": "cccassinello",
       "games": 85,
       "rating": 1381,
@@ -7987,7 +7979,7 @@
       "profile": "https://lichess.org/@/cccassinello"
     },
     {
-      "rank": 999,
+      "rank": 998,
       "username": "kingabou",
       "games": 85,
       "rating": 1656,
@@ -7995,12 +7987,20 @@
       "profile": "https://lichess.org/@/kingabou"
     },
     {
-      "rank": 1000,
+      "rank": 999,
       "username": "mr-rivy",
       "games": 85,
       "rating": 1254,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/mr-rivy"
+    },
+    {
+      "rank": 1000,
+      "username": "mrgojo-satoru",
+      "games": 85,
+      "rating": 1928,
+      "source": "Lobby-Crawl",
+      "profile": "https://lichess.org/@/mrgojo-satoru"
     }
   ]
 }
