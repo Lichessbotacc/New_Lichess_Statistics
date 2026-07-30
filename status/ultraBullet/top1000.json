@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-30T01:18:35.023881+00:00",
+  "updated_at": "2026-07-30T01:23:37.640544+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -7980,14 +7980,6 @@
     },
     {
       "rank": 998,
-      "username": "jsb_1685",
-      "games": 85,
-      "rating": 1482,
-      "source": "Lobby-Crawl",
-      "profile": "https://lichess.org/@/jsb_1685"
-    },
-    {
-      "rank": 999,
       "username": "kingabou",
       "games": 85,
       "rating": 1656,
@@ -7995,12 +7987,20 @@
       "profile": "https://lichess.org/@/kingabou"
     },
     {
-      "rank": 1000,
+      "rank": 999,
       "username": "mr-rivy",
       "games": 85,
       "rating": 1254,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/mr-rivy"
+    },
+    {
+      "rank": 1000,
+      "username": "mrgojo-satoru",
+      "games": 85,
+      "rating": 1928,
+      "source": "Lobby-Crawl",
+      "profile": "https://lichess.org/@/mrgojo-satoru"
     }
   ]
 }
