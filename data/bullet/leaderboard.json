@@ -8142,7 +8142,7 @@
     "pocadilly": 55,
     "pochcarnoura": 5,
     "poincare-hopf": 106,
-    "point-blank7": 1672,
+    "point-blank7": 1811,
     "pointstaxation": 232,
     "poirot86": 65,
     "poisonoussparli": 78,
@@ -19505,7 +19505,7 @@
     "pocadilly": "2026-07-29T17:06:33.917889+00:00",
     "pochcarnoura": "2026-07-29T00:21:44.840097+00:00",
     "poincare-hopf": "2026-07-29T01:28:02.899487+00:00",
-    "point-blank7": "2026-07-29T05:04:23.955734+00:00",
+    "point-blank7": "2026-07-30T06:47:28.594897+00:00",
     "pointstaxation": "2026-07-29T04:31:30.426474+00:00",
     "poirot86": "2026-07-29T07:34:55.987809+00:00",
     "poisonoussparli": "2026-07-28T20:28:10.885484+00:00",
@@ -22759,9 +22759,17 @@
       "username": "fahadesque"
     },
     {
+      "games": 1811,
+      "profile": "https://lichess.org/@/point-blank7",
+      "rank": 5,
+      "rating": 2327,
+      "source": "Lobby-Crawl",
+      "username": "point-blank7"
+    },
+    {
       "games": 1719,
       "profile": "https://lichess.org/@/janton60",
-      "rank": 5,
+      "rank": 6,
       "rating": 1874,
       "source": "Lobby-Crawl",
       "username": "janton60"
@@ -22769,18 +22777,10 @@
     {
       "games": 1707,
       "profile": "https://lichess.org/@/weaky_player",
-      "rank": 6,
+      "rank": 7,
       "rating": 2498,
       "source": "Lobby-Crawl",
       "username": "weaky_player"
-    },
-    {
-      "games": 1672,
-      "profile": "https://lichess.org/@/point-blank7",
-      "rank": 7,
-      "rating": 2327,
-      "source": "Lobby-Crawl",
-      "username": "point-blank7"
     },
     {
       "games": 1617,
@@ -113615,5 +113615,5 @@
       "username": "adamchessag"
     }
   ],
-  "updated_at": "2026-07-30T06:41:19.926085+00:00"
+  "updated_at": "2026-07-30T06:47:28.598571+00:00"
 }
