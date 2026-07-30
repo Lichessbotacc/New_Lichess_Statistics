@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-30T10:52:22.279663+00:00",
+  "updated_at": "2026-07-30T10:59:23.311991+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -44,19 +44,19 @@
     },
     {
       "rank": 6,
+      "username": "nathanael01",
+      "games": 1638,
+      "rating": 2111,
+      "source": "Turnier",
+      "profile": "https://lichess.org/@/nathanael01"
+    },
+    {
+      "rank": 7,
       "username": "berserk31012012",
       "games": 1607,
       "rating": 2103,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/berserk31012012"
-    },
-    {
-      "rank": 7,
-      "username": "nathanael01",
-      "games": 1561,
-      "rating": 2111,
-      "source": "Turnier",
-      "profile": "https://lichess.org/@/nathanael01"
     },
     {
       "rank": 8,
@@ -7956,6 +7956,14 @@
     },
     {
       "rank": 995,
+      "username": "youcantdeny",
+      "games": 88,
+      "rating": 1725,
+      "source": "Lobby-Crawl",
+      "profile": "https://lichess.org/@/youcantdeny"
+    },
+    {
+      "rank": 996,
       "username": "alp-guillermoav-11",
       "games": 87,
       "rating": 1481,
@@ -7963,7 +7971,7 @@
       "profile": "https://lichess.org/@/alp-guillermoav-11"
     },
     {
-      "rank": 996,
+      "rank": 997,
       "username": "andreykra",
       "games": 87,
       "rating": 1724,
@@ -7971,7 +7979,7 @@
       "profile": "https://lichess.org/@/andreykra"
     },
     {
-      "rank": 997,
+      "rank": 998,
       "username": "aungkyawsan2",
       "games": 87,
       "rating": 1207,
@@ -7979,7 +7987,7 @@
       "profile": "https://lichess.org/@/aungkyawsan2"
     },
     {
-      "rank": 998,
+      "rank": 999,
       "username": "battybaskoi",
       "games": 87,
       "rating": 1621,
@@ -7987,20 +7995,12 @@
       "profile": "https://lichess.org/@/battybaskoi"
     },
     {
-      "rank": 999,
+      "rank": 1000,
       "username": "berdugoangel",
       "games": 87,
       "rating": 1682,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/berdugoangel"
-    },
-    {
-      "rank": 1000,
-      "username": "erik101",
-      "games": 87,
-      "rating": 1830,
-      "source": "Lobby-Crawl",
-      "profile": "https://lichess.org/@/erik101"
     }
   ]
 }
