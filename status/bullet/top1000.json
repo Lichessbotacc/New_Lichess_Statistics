@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-30T23:27:52.005488+00:00",
+  "updated_at": "2026-07-30T23:32:52.464158+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -7932,6 +7932,14 @@
     },
     {
       "rank": 992,
+      "username": "jorgedenorte",
+      "games": 417,
+      "rating": 1338,
+      "source": "Lobby-Crawl",
+      "profile": "https://lichess.org/@/jorgedenorte"
+    },
+    {
+      "rank": 993,
       "username": "ajedrez001",
       "games": 416,
       "rating": 1508,
@@ -7939,7 +7947,7 @@
       "profile": "https://lichess.org/@/ajedrez001"
     },
     {
-      "rank": 993,
+      "rank": 994,
       "username": "elpakisto57",
       "games": 416,
       "rating": 2243,
@@ -7947,7 +7955,7 @@
       "profile": "https://lichess.org/@/elpakisto57"
     },
     {
-      "rank": 994,
+      "rank": 995,
       "username": "fnr1",
       "games": 416,
       "rating": 1820,
@@ -7955,7 +7963,7 @@
       "profile": "https://lichess.org/@/fnr1"
     },
     {
-      "rank": 995,
+      "rank": 996,
       "username": "karimarak",
       "games": 416,
       "rating": 2245,
@@ -7963,7 +7971,7 @@
       "profile": "https://lichess.org/@/karimarak"
     },
     {
-      "rank": 996,
+      "rank": 997,
       "username": "rasenga",
       "games": 416,
       "rating": 2130,
@@ -7971,7 +7979,7 @@
       "profile": "https://lichess.org/@/rasenga"
     },
     {
-      "rank": 997,
+      "rank": 998,
       "username": "romankov75",
       "games": 416,
       "rating": 2116,
@@ -7979,7 +7987,7 @@
       "profile": "https://lichess.org/@/romankov75"
     },
     {
-      "rank": 998,
+      "rank": 999,
       "username": "waltom",
       "games": 416,
       "rating": 1221,
@@ -7987,20 +7995,12 @@
       "profile": "https://lichess.org/@/waltom"
     },
     {
-      "rank": 999,
+      "rank": 1000,
       "username": "fun-way",
       "games": 415,
       "rating": 1640,
       "source": "Turnier",
       "profile": "https://lichess.org/@/fun-way"
-    },
-    {
-      "rank": 1000,
-      "username": "miqueldemaria",
-      "games": 415,
-      "rating": 1735,
-      "source": "Lobby-Crawl",
-      "profile": "https://lichess.org/@/miqueldemaria"
     }
   ]
 }
