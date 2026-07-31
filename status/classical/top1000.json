@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-31T12:37:16.536359+00:00",
+  "updated_at": "2026-07-31T12:42:18.870958+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -76,14 +76,6 @@
     },
     {
       "rank": 10,
-      "username": "voin666",
-      "games": 156,
-      "rating": 1497,
-      "source": "Lobby-Crawl",
-      "profile": "https://lichess.org/@/voin666"
-    },
-    {
-      "rank": 11,
       "username": "sergio_mendonca",
       "games": 155,
       "rating": 1390,
@@ -91,7 +83,7 @@
       "profile": "https://lichess.org/@/sergio_mendonca"
     },
     {
-      "rank": 12,
+      "rank": 11,
       "username": "vsuslov",
       "games": 154,
       "rating": 1725,
@@ -99,7 +91,7 @@
       "profile": "https://lichess.org/@/vsuslov"
     },
     {
-      "rank": 13,
+      "rank": 12,
       "username": "a21686697",
       "games": 153,
       "rating": 1627,
@@ -107,7 +99,7 @@
       "profile": "https://lichess.org/@/a21686697"
     },
     {
-      "rank": 14,
+      "rank": 13,
       "username": "luismcrd",
       "games": 152,
       "rating": 1109,
@@ -115,7 +107,7 @@
       "profile": "https://lichess.org/@/luismcrd"
     },
     {
-      "rank": 15,
+      "rank": 14,
       "username": "chesskingroy",
       "games": 148,
       "rating": 1721,
@@ -123,7 +115,7 @@
       "profile": "https://lichess.org/@/chesskingroy"
     },
     {
-      "rank": 16,
+      "rank": 15,
       "username": "eeran",
       "games": 147,
       "rating": 1839,
@@ -131,12 +123,20 @@
       "profile": "https://lichess.org/@/eeran"
     },
     {
-      "rank": 17,
+      "rank": 16,
       "username": "bogatov935",
       "games": 146,
       "rating": 1921,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/bogatov935"
+    },
+    {
+      "rank": 17,
+      "username": "voin666",
+      "games": 146,
+      "rating": 1497,
+      "source": "Lobby-Crawl",
+      "profile": "https://lichess.org/@/voin666"
     },
     {
       "rank": 18,
