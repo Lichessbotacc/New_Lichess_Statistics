@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-31T07:19:28.557578+00:00",
+  "updated_at": "2026-07-31T07:24:29.510556+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -7980,6 +7980,14 @@
     },
     {
       "rank": 998,
+      "username": "ravikumarm",
+      "games": 162,
+      "rating": 2010,
+      "source": "Lobby-Crawl",
+      "profile": "https://lichess.org/@/ravikumarm"
+    },
+    {
+      "rank": 999,
       "username": "rhettcramer",
       "games": 162,
       "rating": 801,
@@ -7987,20 +7995,12 @@
       "profile": "https://lichess.org/@/rhettcramer"
     },
     {
-      "rank": 999,
+      "rank": 1000,
       "username": "sahad1",
       "games": 162,
       "rating": 1658,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/sahad1"
-    },
-    {
-      "rank": 1000,
-      "username": "mzi04",
-      "games": 162,
-      "rating": 1475,
-      "source": "Lobby-Crawl",
-      "profile": "https://lichess.org/@/mzi04"
     }
   ]
 }
