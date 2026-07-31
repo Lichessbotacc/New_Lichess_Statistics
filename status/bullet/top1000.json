@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-31T16:34:18.807550+00:00",
+  "updated_at": "2026-07-31T16:39:34.445760+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -836,14 +836,6 @@
     },
     {
       "rank": 105,
-      "username": "georgedamian",
-      "games": 980,
-      "rating": 1693,
-      "source": "Turnier",
-      "profile": "https://lichess.org/@/georgedamian"
-    },
-    {
-      "rank": 106,
       "username": "samposebe",
       "games": 976,
       "rating": 2063,
@@ -851,7 +843,7 @@
       "profile": "https://lichess.org/@/samposebe"
     },
     {
-      "rank": 107,
+      "rank": 106,
       "username": "kaidanz2026",
       "games": 975,
       "rating": 2082,
@@ -859,7 +851,7 @@
       "profile": "https://lichess.org/@/kaidanz2026"
     },
     {
-      "rank": 108,
+      "rank": 107,
       "username": "captainbongo",
       "games": 964,
       "rating": 2210,
@@ -867,7 +859,7 @@
       "profile": "https://lichess.org/@/captainbongo"
     },
     {
-      "rank": 109,
+      "rank": 108,
       "username": "malibran",
       "games": 961,
       "rating": 1854,
@@ -875,7 +867,7 @@
       "profile": "https://lichess.org/@/malibran"
     },
     {
-      "rank": 110,
+      "rank": 109,
       "username": "diefaber",
       "games": 959,
       "rating": 2137,
@@ -883,12 +875,20 @@
       "profile": "https://lichess.org/@/diefaber"
     },
     {
-      "rank": 111,
+      "rank": 110,
       "username": "dr1ziko",
       "games": 959,
       "rating": 2520,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/dr1ziko"
+    },
+    {
+      "rank": 111,
+      "username": "georgedamian",
+      "games": 959,
+      "rating": 1693,
+      "source": "Turnier",
+      "profile": "https://lichess.org/@/georgedamian"
     },
     {
       "rank": 112,
