@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-31T13:24:12.917766+00:00",
+  "updated_at": "2026-07-31T13:29:13.152495+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -516,14 +516,6 @@
     },
     {
       "rank": 65,
-      "username": "dimastup",
-      "games": 774,
-      "rating": 1889,
-      "source": "Turnier",
-      "profile": "https://lichess.org/@/dimastup"
-    },
-    {
-      "rank": 66,
       "username": "frermetal",
       "games": 774,
       "rating": 1889,
@@ -531,12 +523,20 @@
       "profile": "https://lichess.org/@/frermetal"
     },
     {
-      "rank": 67,
+      "rank": 66,
       "username": "wesboss",
       "games": 773,
       "rating": 2221,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/wesboss"
+    },
+    {
+      "rank": 67,
+      "username": "dimastup",
+      "games": 770,
+      "rating": 1889,
+      "source": "Turnier",
+      "profile": "https://lichess.org/@/dimastup"
     },
     {
       "rank": 68,
