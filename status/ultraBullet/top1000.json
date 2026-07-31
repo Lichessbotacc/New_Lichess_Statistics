@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-31T20:00:59.283048+00:00",
+  "updated_at": "2026-07-31T20:05:59.942196+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -228,6 +228,14 @@
     },
     {
       "rank": 29,
+      "username": "entash",
+      "games": 1052,
+      "rating": 1983,
+      "source": "Lobby-Crawl",
+      "profile": "https://lichess.org/@/entash"
+    },
+    {
+      "rank": 30,
       "username": "chess_training_2021",
       "games": 1037,
       "rating": 2245,
@@ -235,7 +243,7 @@
       "profile": "https://lichess.org/@/chess_training_2021"
     },
     {
-      "rank": 30,
+      "rank": 31,
       "username": "sling16",
       "games": 1037,
       "rating": 1850,
@@ -243,7 +251,7 @@
       "profile": "https://lichess.org/@/sling16"
     },
     {
-      "rank": 31,
+      "rank": 32,
       "username": "anuragsri",
       "games": 1027,
       "rating": 1947,
@@ -251,20 +259,12 @@
       "profile": "https://lichess.org/@/anuragsri"
     },
     {
-      "rank": 32,
+      "rank": 33,
       "username": "skt-2010",
       "games": 1022,
       "rating": 2221,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/skt-2010"
-    },
-    {
-      "rank": 33,
-      "username": "entash",
-      "games": 1019,
-      "rating": 1983,
-      "source": "Lobby-Crawl",
-      "profile": "https://lichess.org/@/entash"
     },
     {
       "rank": 34,
