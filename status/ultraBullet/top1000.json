@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-01T21:02:49.862117+00:00",
+  "updated_at": "2026-08-01T21:08:22.102133+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -4380,14 +4380,6 @@
     },
     {
       "rank": 548,
-      "username": "mdcard",
-      "games": 164,
-      "rating": 1487,
-      "source": "Lobby-Crawl",
-      "profile": "https://lichess.org/@/mdcard"
-    },
-    {
-      "rank": 549,
       "username": "playingbest234",
       "games": 164,
       "rating": 1753,
@@ -4395,7 +4387,7 @@
       "profile": "https://lichess.org/@/playingbest234"
     },
     {
-      "rank": 550,
+      "rank": 549,
       "username": "a16108",
       "games": 163,
       "rating": 1700,
@@ -4403,12 +4395,20 @@
       "profile": "https://lichess.org/@/a16108"
     },
     {
-      "rank": 551,
+      "rank": 550,
       "username": "akif_123man",
       "games": 163,
       "rating": 1404,
       "source": "Turnier",
       "profile": "https://lichess.org/@/akif_123man"
+    },
+    {
+      "rank": 551,
+      "username": "mdcard",
+      "games": 163,
+      "rating": 1487,
+      "source": "Lobby-Crawl",
+      "profile": "https://lichess.org/@/mdcard"
     },
     {
       "rank": 552,
