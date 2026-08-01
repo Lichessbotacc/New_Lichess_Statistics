@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-01T00:49:01.206610+00:00",
+  "updated_at": "2026-08-01T00:54:06.858049+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -508,14 +508,6 @@
     },
     {
       "rank": 64,
-      "username": "zwartepeete",
-      "games": 1141,
-      "rating": 1330,
-      "source": "Lobby-Crawl",
-      "profile": "https://lichess.org/@/zwartepeete"
-    },
-    {
-      "rank": 65,
       "username": "dayan9867",
       "games": 1125,
       "rating": 2324,
@@ -523,7 +515,7 @@
       "profile": "https://lichess.org/@/dayan9867"
     },
     {
-      "rank": 66,
+      "rank": 65,
       "username": "gionabaldo",
       "games": 1104,
       "rating": 2442,
@@ -531,7 +523,7 @@
       "profile": "https://lichess.org/@/gionabaldo"
     },
     {
-      "rank": 67,
+      "rank": 66,
       "username": "mosaiq",
       "games": 1104,
       "rating": 1898,
@@ -539,12 +531,20 @@
       "profile": "https://lichess.org/@/mosaiq"
     },
     {
-      "rank": 68,
+      "rank": 67,
       "username": "saleh1990m",
       "games": 1103,
       "rating": 2084,
       "source": "Turnier",
       "profile": "https://lichess.org/@/saleh1990m"
+    },
+    {
+      "rank": 68,
+      "username": "zwartepeete",
+      "games": 1097,
+      "rating": 1330,
+      "source": "Lobby-Crawl",
+      "profile": "https://lichess.org/@/zwartepeete"
     },
     {
       "rank": 69,
