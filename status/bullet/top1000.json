@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-01T20:22:11.144171+00:00",
+  "updated_at": "2026-08-01T20:27:18.086909+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -3500,14 +3500,6 @@
     },
     {
       "rank": 438,
-      "username": "murat1203",
-      "games": 653,
-      "rating": 2044,
-      "source": "Lobby-Crawl",
-      "profile": "https://lichess.org/@/murat1203"
-    },
-    {
-      "rank": 439,
       "username": "musstedassein12",
       "games": 653,
       "rating": 2325,
@@ -3515,7 +3507,7 @@
       "profile": "https://lichess.org/@/musstedassein12"
     },
     {
-      "rank": 440,
+      "rank": 439,
       "username": "farmaciaxadrez",
       "games": 652,
       "rating": 2087,
@@ -3523,7 +3515,7 @@
       "profile": "https://lichess.org/@/farmaciaxadrez"
     },
     {
-      "rank": 441,
+      "rank": 440,
       "username": "fenicsreturns",
       "games": 652,
       "rating": 2401,
@@ -3531,12 +3523,20 @@
       "profile": "https://lichess.org/@/fenicsreturns"
     },
     {
-      "rank": 442,
+      "rank": 441,
       "username": "abu_hammam",
       "games": 651,
       "rating": 1710,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/abu_hammam"
+    },
+    {
+      "rank": 442,
+      "username": "murat1203",
+      "games": 651,
+      "rating": 2044,
+      "source": "Lobby-Crawl",
+      "profile": "https://lichess.org/@/murat1203"
     },
     {
       "rank": 443,
