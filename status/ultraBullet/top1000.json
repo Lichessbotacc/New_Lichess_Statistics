@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02T04:45:52.805146+00:00",
+  "updated_at": "2026-08-02T04:51:10.673795+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -236,6 +236,14 @@
     },
     {
       "rank": 30,
+      "username": "sling16",
+      "games": 1066,
+      "rating": 1850,
+      "source": "Lobby-Crawl",
+      "profile": "https://lichess.org/@/sling16"
+    },
+    {
+      "rank": 31,
       "username": "maybe_xd",
       "games": 1065,
       "rating": 2605,
@@ -243,7 +251,7 @@
       "profile": "https://lichess.org/@/maybe_xd"
     },
     {
-      "rank": 31,
+      "rank": 32,
       "username": "rkido",
       "games": 1060,
       "rating": 1722,
@@ -251,7 +259,7 @@
       "profile": "https://lichess.org/@/rkido"
     },
     {
-      "rank": 32,
+      "rank": 33,
       "username": "eagle_xx",
       "games": 1049,
       "rating": 2264,
@@ -259,7 +267,7 @@
       "profile": "https://lichess.org/@/eagle_xx"
     },
     {
-      "rank": 33,
+      "rank": 34,
       "username": "gt2rsweissach",
       "games": 1044,
       "rating": 2560,
@@ -267,7 +275,7 @@
       "profile": "https://lichess.org/@/gt2rsweissach"
     },
     {
-      "rank": 34,
+      "rank": 35,
       "username": "anuragsri",
       "games": 1037,
       "rating": 1947,
@@ -275,7 +283,7 @@
       "profile": "https://lichess.org/@/anuragsri"
     },
     {
-      "rank": 35,
+      "rank": 36,
       "username": "amt05",
       "games": 1020,
       "rating": 2300,
@@ -283,7 +291,7 @@
       "profile": "https://lichess.org/@/amt05"
     },
     {
-      "rank": 36,
+      "rank": 37,
       "username": "skt-2010",
       "games": 1014,
       "rating": 2221,
@@ -291,20 +299,12 @@
       "profile": "https://lichess.org/@/skt-2010"
     },
     {
-      "rank": 37,
+      "rank": 38,
       "username": "beautifulgirl123",
       "games": 1012,
       "rating": 1828,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/beautifulgirl123"
-    },
-    {
-      "rank": 38,
-      "username": "sling16",
-      "games": 993,
-      "rating": 1850,
-      "source": "Lobby-Crawl",
-      "profile": "https://lichess.org/@/sling16"
     },
     {
       "rank": 39,
@@ -4404,14 +4404,6 @@
     },
     {
       "rank": 551,
-      "username": "isotoxtal",
-      "games": 162,
-      "rating": 1826,
-      "source": "Lobby-Crawl",
-      "profile": "https://lichess.org/@/isotoxtal"
-    },
-    {
-      "rank": 552,
       "username": "rituaal",
       "games": 162,
       "rating": 2338,
@@ -4419,7 +4411,7 @@
       "profile": "https://lichess.org/@/rituaal"
     },
     {
-      "rank": 553,
+      "rank": 552,
       "username": "ultimate_destruction",
       "games": 162,
       "rating": 1758,
@@ -4427,7 +4419,7 @@
       "profile": "https://lichess.org/@/ultimate_destruction"
     },
     {
-      "rank": 554,
+      "rank": 553,
       "username": "elrayollorante",
       "games": 161,
       "rating": 2074,
@@ -4435,7 +4427,7 @@
       "profile": "https://lichess.org/@/elrayollorante"
     },
     {
-      "rank": 555,
+      "rank": 554,
       "username": "nc212",
       "games": 161,
       "rating": 1918,
@@ -4443,7 +4435,7 @@
       "profile": "https://lichess.org/@/nc212"
     },
     {
-      "rank": 556,
+      "rank": 555,
       "username": "oneandonlyzerg",
       "games": 161,
       "rating": 2071,
@@ -4451,7 +4443,7 @@
       "profile": "https://lichess.org/@/oneandonlyzerg"
     },
     {
-      "rank": 557,
+      "rank": 556,
       "username": "srihith0314",
       "games": 161,
       "rating": 1731,
@@ -4459,7 +4451,7 @@
       "profile": "https://lichess.org/@/srihith0314"
     },
     {
-      "rank": 558,
+      "rank": 557,
       "username": "vihaan12345qwerty",
       "games": 161,
       "rating": 1831,
@@ -4467,12 +4459,20 @@
       "profile": "https://lichess.org/@/vihaan12345qwerty"
     },
     {
-      "rank": 559,
+      "rank": 558,
       "username": "hyperggs",
       "games": 160,
       "rating": 2130,
       "source": "Turnier",
       "profile": "https://lichess.org/@/hyperggs"
+    },
+    {
+      "rank": 559,
+      "username": "isotoxtal",
+      "games": 160,
+      "rating": 1826,
+      "source": "Lobby-Crawl",
+      "profile": "https://lichess.org/@/isotoxtal"
     },
     {
       "rank": 560,
