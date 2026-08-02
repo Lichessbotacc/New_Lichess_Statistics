@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02T04:51:10.673795+00:00",
+  "updated_at": "2026-08-02T04:56:12.010030+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -700,6 +700,14 @@
     },
     {
       "rank": 88,
+      "username": "ergashowf",
+      "games": 668,
+      "rating": 1668,
+      "source": "Lobby-Crawl",
+      "profile": "https://lichess.org/@/ergashowf"
+    },
+    {
+      "rank": 89,
       "username": "raadinnoori",
       "games": 667,
       "rating": 1732,
@@ -707,7 +715,7 @@
       "profile": "https://lichess.org/@/raadinnoori"
     },
     {
-      "rank": 89,
+      "rank": 90,
       "username": "ezrg94",
       "games": 665,
       "rating": 1689,
@@ -715,7 +723,7 @@
       "profile": "https://lichess.org/@/ezrg94"
     },
     {
-      "rank": 90,
+      "rank": 91,
       "username": "hufflewitz",
       "games": 655,
       "rating": 2222,
@@ -723,7 +731,7 @@
       "profile": "https://lichess.org/@/hufflewitz"
     },
     {
-      "rank": 91,
+      "rank": 92,
       "username": "witzboldig",
       "games": 654,
       "rating": 2272,
@@ -731,7 +739,7 @@
       "profile": "https://lichess.org/@/witzboldig"
     },
     {
-      "rank": 92,
+      "rank": 93,
       "username": "cjc-1295",
       "games": 650,
       "rating": 2065,
@@ -739,7 +747,7 @@
       "profile": "https://lichess.org/@/cjc-1295"
     },
     {
-      "rank": 93,
+      "rank": 94,
       "username": "candiatemaster2048",
       "games": 645,
       "rating": 1762,
@@ -747,20 +755,12 @@
       "profile": "https://lichess.org/@/candiatemaster2048"
     },
     {
-      "rank": 94,
+      "rank": 95,
       "username": "alphajet26",
       "games": 639,
       "rating": 1895,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/alphajet26"
-    },
-    {
-      "rank": 95,
-      "username": "ergashowf",
-      "games": 633,
-      "rating": 1668,
-      "source": "Lobby-Crawl",
-      "profile": "https://lichess.org/@/ergashowf"
     },
     {
       "rank": 96,
@@ -2820,14 +2820,6 @@
     },
     {
       "rank": 353,
-      "username": "kenshinw",
-      "games": 249,
-      "rating": 1903,
-      "source": "Lobby-Crawl",
-      "profile": "https://lichess.org/@/kenshinw"
-    },
-    {
-      "rank": 354,
       "username": "nimeshd",
       "games": 249,
       "rating": 1788,
@@ -2835,7 +2827,7 @@
       "profile": "https://lichess.org/@/nimeshd"
     },
     {
-      "rank": 355,
+      "rank": 354,
       "username": "evenhonestbowler",
       "games": 248,
       "rating": 1781,
@@ -2843,12 +2835,20 @@
       "profile": "https://lichess.org/@/evenhonestbowler"
     },
     {
-      "rank": 356,
+      "rank": 355,
       "username": "flashystyle",
       "games": 248,
       "rating": 2068,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/flashystyle"
+    },
+    {
+      "rank": 356,
+      "username": "kenshinw",
+      "games": 248,
+      "rating": 1903,
+      "source": "Lobby-Crawl",
+      "profile": "https://lichess.org/@/kenshinw"
     },
     {
       "rank": 357,
