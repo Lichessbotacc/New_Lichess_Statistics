@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02T06:23:43.951808+00:00",
+  "updated_at": "2026-08-02T06:28:48.639866+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -228,14 +228,6 @@
     },
     {
       "rank": 29,
-      "username": "red_arctic_fox",
-      "games": 1443,
-      "rating": 1865,
-      "source": "Turnier",
-      "profile": "https://lichess.org/@/red_arctic_fox"
-    },
-    {
-      "rank": 30,
       "username": "zambiangiraffe",
       "games": 1422,
       "rating": 2388,
@@ -243,7 +235,7 @@
       "profile": "https://lichess.org/@/zambiangiraffe"
     },
     {
-      "rank": 31,
+      "rank": 30,
       "username": "offroadtrip",
       "games": 1420,
       "rating": 1944,
@@ -251,12 +243,20 @@
       "profile": "https://lichess.org/@/offroadtrip"
     },
     {
-      "rank": 32,
+      "rank": 31,
       "username": "ronniegli",
       "games": 1410,
       "rating": 1500,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/ronniegli"
+    },
+    {
+      "rank": 32,
+      "username": "red_arctic_fox",
+      "games": 1403,
+      "rating": 1865,
+      "source": "Turnier",
+      "profile": "https://lichess.org/@/red_arctic_fox"
     },
     {
       "rank": 33,
