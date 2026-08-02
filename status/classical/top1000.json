@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02T05:02:59.391817+00:00",
+  "updated_at": "2026-08-02T05:08:30.610021+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -140,14 +140,6 @@
     },
     {
       "rank": 18,
-      "username": "wolfgang777",
-      "games": 144,
-      "rating": 1660,
-      "source": "Lobby-Crawl",
-      "profile": "https://lichess.org/@/wolfgang777"
-    },
-    {
-      "rank": 19,
       "username": "victorsacristan",
       "games": 143,
       "rating": 1653,
@@ -155,7 +147,7 @@
       "profile": "https://lichess.org/@/victorsacristan"
     },
     {
-      "rank": 20,
+      "rank": 19,
       "username": "eeran",
       "games": 142,
       "rating": 1839,
@@ -163,7 +155,7 @@
       "profile": "https://lichess.org/@/eeran"
     },
     {
-      "rank": 21,
+      "rank": 20,
       "username": "jitu1713",
       "games": 136,
       "rating": 1601,
@@ -171,7 +163,7 @@
       "profile": "https://lichess.org/@/jitu1713"
     },
     {
-      "rank": 22,
+      "rank": 21,
       "username": "geniarus",
       "games": 135,
       "rating": 1749,
@@ -179,7 +171,7 @@
       "profile": "https://lichess.org/@/geniarus"
     },
     {
-      "rank": 23,
+      "rank": 22,
       "username": "lordsalva",
       "games": 131,
       "rating": 1512,
@@ -187,7 +179,7 @@
       "profile": "https://lichess.org/@/lordsalva"
     },
     {
-      "rank": 24,
+      "rank": 23,
       "username": "thomasfortier24",
       "games": 131,
       "rating": 1679,
@@ -195,7 +187,7 @@
       "profile": "https://lichess.org/@/thomasfortier24"
     },
     {
-      "rank": 25,
+      "rank": 24,
       "username": "hunter2026",
       "games": 130,
       "rating": 1935,
@@ -203,7 +195,7 @@
       "profile": "https://lichess.org/@/hunter2026"
     },
     {
-      "rank": 26,
+      "rank": 25,
       "username": "pedro_11112006",
       "games": 130,
       "rating": 2233,
@@ -211,12 +203,20 @@
       "profile": "https://lichess.org/@/pedro_11112006"
     },
     {
-      "rank": 27,
+      "rank": 26,
       "username": "maxim3814",
       "games": 129,
       "rating": 1568,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/maxim3814"
+    },
+    {
+      "rank": 27,
+      "username": "wolfgang777",
+      "games": 128,
+      "rating": 1660,
+      "source": "Lobby-Crawl",
+      "profile": "https://lichess.org/@/wolfgang777"
     },
     {
       "rank": 28,
@@ -3660,6 +3660,14 @@
     },
     {
       "rank": 458,
+      "username": "palencia",
+      "games": 53,
+      "rating": 1599,
+      "source": "Lobby-Crawl",
+      "profile": "https://lichess.org/@/palencia"
+    },
+    {
+      "rank": 459,
       "username": "rainrainsnowsnow",
       "games": 53,
       "rating": 1775,
@@ -3667,7 +3675,7 @@
       "profile": "https://lichess.org/@/rainrainsnowsnow"
     },
     {
-      "rank": 459,
+      "rank": 460,
       "username": "sayd07",
       "games": 53,
       "rating": 1805,
@@ -3675,7 +3683,7 @@
       "profile": "https://lichess.org/@/sayd07"
     },
     {
-      "rank": 460,
+      "rank": 461,
       "username": "semyon1936",
       "games": 53,
       "rating": 1439,
@@ -3683,7 +3691,7 @@
       "profile": "https://lichess.org/@/semyon1936"
     },
     {
-      "rank": 461,
+      "rank": 462,
       "username": "sergei48",
       "games": 53,
       "rating": 1481,
@@ -3691,7 +3699,7 @@
       "profile": "https://lichess.org/@/sergei48"
     },
     {
-      "rank": 462,
+      "rank": 463,
       "username": "shon_maik79",
       "games": 53,
       "rating": 1543,
@@ -3699,7 +3707,7 @@
       "profile": "https://lichess.org/@/shon_maik79"
     },
     {
-      "rank": 463,
+      "rank": 464,
       "username": "steff_le",
       "games": 53,
       "rating": 2237,
@@ -3707,7 +3715,7 @@
       "profile": "https://lichess.org/@/steff_le"
     },
     {
-      "rank": 464,
+      "rank": 465,
       "username": "uugan-1975",
       "games": 53,
       "rating": 1711,
@@ -3715,20 +3723,12 @@
       "profile": "https://lichess.org/@/uugan-1975"
     },
     {
-      "rank": 465,
+      "rank": 466,
       "username": "vedrovod",
       "games": 53,
       "rating": 1705,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/vedrovod"
-    },
-    {
-      "rank": 466,
-      "username": "yaroslav_pavel",
-      "games": 53,
-      "rating": 1559,
-      "source": "Lobby-Crawl",
-      "profile": "https://lichess.org/@/yaroslav_pavel"
     },
     {
       "rank": 467,
@@ -3836,14 +3836,6 @@
     },
     {
       "rank": 480,
-      "username": "palencia",
-      "games": 52,
-      "rating": 1599,
-      "source": "Lobby-Crawl",
-      "profile": "https://lichess.org/@/palencia"
-    },
-    {
-      "rank": 481,
       "username": "romwegas",
       "games": 52,
       "rating": 1902,
@@ -3851,7 +3843,7 @@
       "profile": "https://lichess.org/@/romwegas"
     },
     {
-      "rank": 482,
+      "rank": 481,
       "username": "rsb_chess",
       "games": 52,
       "rating": 1368,
@@ -3859,7 +3851,7 @@
       "profile": "https://lichess.org/@/rsb_chess"
     },
     {
-      "rank": 483,
+      "rank": 482,
       "username": "sithum_dilshan",
       "games": 52,
       "rating": 1269,
@@ -3867,7 +3859,7 @@
       "profile": "https://lichess.org/@/sithum_dilshan"
     },
     {
-      "rank": 484,
+      "rank": 483,
       "username": "subhonalimov",
       "games": 52,
       "rating": 1843,
@@ -3875,7 +3867,7 @@
       "profile": "https://lichess.org/@/subhonalimov"
     },
     {
-      "rank": 485,
+      "rank": 484,
       "username": "thirueflu",
       "games": 52,
       "rating": 1114,
@@ -3883,7 +3875,7 @@
       "profile": "https://lichess.org/@/thirueflu"
     },
     {
-      "rank": 486,
+      "rank": 485,
       "username": "tjate",
       "games": 52,
       "rating": 2014,
@@ -3891,7 +3883,7 @@
       "profile": "https://lichess.org/@/tjate"
     },
     {
-      "rank": 487,
+      "rank": 486,
       "username": "tyke24",
       "games": 52,
       "rating": 1744,
@@ -3899,12 +3891,20 @@
       "profile": "https://lichess.org/@/tyke24"
     },
     {
-      "rank": 488,
+      "rank": 487,
       "username": "willycinq",
       "games": 52,
       "rating": 1233,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/willycinq"
+    },
+    {
+      "rank": 488,
+      "username": "yaroslav_pavel",
+      "games": 52,
+      "rating": 1559,
+      "source": "Lobby-Crawl",
+      "profile": "https://lichess.org/@/yaroslav_pavel"
     },
     {
       "rank": 489,
