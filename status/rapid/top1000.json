@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02T13:39:14.878438+00:00",
+  "updated_at": "2026-08-02T13:44:15.277555+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -7972,6 +7972,14 @@
     },
     {
       "rank": 997,
+      "username": "glassmask",
+      "games": 184,
+      "rating": 1083,
+      "source": "Turnier",
+      "profile": "https://lichess.org/@/glassmask"
+    },
+    {
+      "rank": 998,
       "username": "igor66666",
       "games": 184,
       "rating": 1406,
@@ -7979,7 +7987,7 @@
       "profile": "https://lichess.org/@/igor66666"
     },
     {
-      "rank": 998,
+      "rank": 999,
       "username": "inzhly",
       "games": 184,
       "rating": 1296,
@@ -7987,20 +7995,12 @@
       "profile": "https://lichess.org/@/inzhly"
     },
     {
-      "rank": 999,
+      "rank": 1000,
       "username": "ivalgl",
       "games": 184,
       "rating": 1980,
       "source": "Turnier",
       "profile": "https://lichess.org/@/ivalgl"
-    },
-    {
-      "rank": 1000,
-      "username": "jhonnyhsp",
-      "games": 184,
-      "rating": 1399,
-      "source": "Lobby-Crawl",
-      "profile": "https://lichess.org/@/jhonnyhsp"
     }
   ]
 }
