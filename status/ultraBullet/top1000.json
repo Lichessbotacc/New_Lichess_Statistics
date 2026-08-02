@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02T12:49:09.497183+00:00",
+  "updated_at": "2026-08-02T12:55:17.002140+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -476,14 +476,6 @@
     },
     {
       "rank": 60,
-      "username": "fatdo",
-      "games": 820,
-      "rating": 1775,
-      "source": "Lobby-Crawl",
-      "profile": "https://lichess.org/@/fatdo"
-    },
-    {
-      "rank": 61,
       "username": "ajedrez999",
       "games": 818,
       "rating": 2027,
@@ -491,7 +483,7 @@
       "profile": "https://lichess.org/@/ajedrez999"
     },
     {
-      "rank": 62,
+      "rank": 61,
       "username": "martintakv",
       "games": 815,
       "rating": 2184,
@@ -499,12 +491,20 @@
       "profile": "https://lichess.org/@/martintakv"
     },
     {
-      "rank": 63,
+      "rank": 62,
       "username": "sinrevancha",
       "games": 815,
       "rating": 1361,
       "source": "Turnier",
       "profile": "https://lichess.org/@/sinrevancha"
+    },
+    {
+      "rank": 63,
+      "username": "fatdo",
+      "games": 809,
+      "rating": 1775,
+      "source": "Lobby-Crawl",
+      "profile": "https://lichess.org/@/fatdo"
     },
     {
       "rank": 64,
