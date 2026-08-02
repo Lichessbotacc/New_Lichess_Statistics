@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02T09:38:18.516049+00:00",
+  "updated_at": "2026-08-02T09:44:54.530963+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -196,6 +196,14 @@
     },
     {
       "rank": 25,
+      "username": "rkido",
+      "games": 1088,
+      "rating": 1722,
+      "source": "Lobby-Crawl",
+      "profile": "https://lichess.org/@/rkido"
+    },
+    {
+      "rank": 26,
       "username": "ymneren",
       "games": 1084,
       "rating": 1910,
@@ -203,7 +211,7 @@
       "profile": "https://lichess.org/@/ymneren"
     },
     {
-      "rank": 26,
+      "rank": 27,
       "username": "berserk31012012",
       "games": 1075,
       "rating": 2103,
@@ -211,7 +219,7 @@
       "profile": "https://lichess.org/@/berserk31012012"
     },
     {
-      "rank": 27,
+      "rank": 28,
       "username": "ssshhhhhhhhhhhhhhhhh",
       "games": 1071,
       "rating": 1648,
@@ -219,7 +227,7 @@
       "profile": "https://lichess.org/@/ssshhhhhhhhhhhhhhhhh"
     },
     {
-      "rank": 28,
+      "rank": 29,
       "username": "arqcap",
       "games": 1067,
       "rating": 1746,
@@ -227,7 +235,7 @@
       "profile": "https://lichess.org/@/arqcap"
     },
     {
-      "rank": 29,
+      "rank": 30,
       "username": "sling16",
       "games": 1066,
       "rating": 1850,
@@ -235,7 +243,7 @@
       "profile": "https://lichess.org/@/sling16"
     },
     {
-      "rank": 30,
+      "rank": 31,
       "username": "gmud",
       "games": 1065,
       "rating": 1526,
@@ -243,20 +251,12 @@
       "profile": "https://lichess.org/@/gmud"
     },
     {
-      "rank": 31,
+      "rank": 32,
       "username": "maybe_xd",
       "games": 1065,
       "rating": 2605,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/maybe_xd"
-    },
-    {
-      "rank": 32,
-      "username": "rkido",
-      "games": 1060,
-      "rating": 1722,
-      "source": "Lobby-Crawl",
-      "profile": "https://lichess.org/@/rkido"
     },
     {
       "rank": 33,
@@ -3388,14 +3388,6 @@
     },
     {
       "rank": 424,
-      "username": "apostolemilio77",
-      "games": 208,
-      "rating": 1585,
-      "source": "Lobby-Crawl",
-      "profile": "https://lichess.org/@/apostolemilio77"
-    },
-    {
-      "rank": 425,
       "username": "jlqr",
       "games": 208,
       "rating": 1726,
@@ -3403,7 +3395,7 @@
       "profile": "https://lichess.org/@/jlqr"
     },
     {
-      "rank": 426,
+      "rank": 425,
       "username": "marwan94",
       "games": 208,
       "rating": 1656,
@@ -3411,7 +3403,7 @@
       "profile": "https://lichess.org/@/marwan94"
     },
     {
-      "rank": 427,
+      "rank": 426,
       "username": "olleegg1",
       "games": 207,
       "rating": 1218,
@@ -3419,7 +3411,7 @@
       "profile": "https://lichess.org/@/olleegg1"
     },
     {
-      "rank": 428,
+      "rank": 427,
       "username": "tactical_abyss",
       "games": 207,
       "rating": 1939,
@@ -3427,7 +3419,7 @@
       "profile": "https://lichess.org/@/tactical_abyss"
     },
     {
-      "rank": 429,
+      "rank": 428,
       "username": "chess-player202",
       "games": 205,
       "rating": 1689,
@@ -3435,12 +3427,20 @@
       "profile": "https://lichess.org/@/chess-player202"
     },
     {
-      "rank": 430,
+      "rank": 429,
       "username": "felisinde",
       "games": 205,
       "rating": 1101,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/felisinde"
+    },
+    {
+      "rank": 430,
+      "username": "apostolemilio77",
+      "games": 204,
+      "rating": 1585,
+      "source": "Lobby-Crawl",
+      "profile": "https://lichess.org/@/apostolemilio77"
     },
     {
       "rank": 431,
