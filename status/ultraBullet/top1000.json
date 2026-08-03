@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-03T16:02:23.779971+00:00",
+  "updated_at": "2026-08-03T16:07:25.124504+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -940,14 +940,6 @@
     },
     {
       "rank": 118,
-      "username": "usaftwa",
-      "games": 589,
-      "rating": 1450,
-      "source": "Lobby-Crawl",
-      "profile": "https://lichess.org/@/usaftwa"
-    },
-    {
-      "rank": 119,
       "username": "kozenkovvalera",
       "games": 586,
       "rating": 2227,
@@ -955,7 +947,7 @@
       "profile": "https://lichess.org/@/kozenkovvalera"
     },
     {
-      "rank": 120,
+      "rank": 119,
       "username": "skt-2010",
       "games": 584,
       "rating": 2221,
@@ -963,7 +955,7 @@
       "profile": "https://lichess.org/@/skt-2010"
     },
     {
-      "rank": 121,
+      "rank": 120,
       "username": "conqueror_ryan",
       "games": 579,
       "rating": 1981,
@@ -971,7 +963,7 @@
       "profile": "https://lichess.org/@/conqueror_ryan"
     },
     {
-      "rank": 122,
+      "rank": 121,
       "username": "leogla",
       "games": 577,
       "rating": 2147,
@@ -979,7 +971,7 @@
       "profile": "https://lichess.org/@/leogla"
     },
     {
-      "rank": 123,
+      "rank": 122,
       "username": "luca496",
       "games": 572,
       "rating": 1962,
@@ -987,7 +979,7 @@
       "profile": "https://lichess.org/@/luca496"
     },
     {
-      "rank": 124,
+      "rank": 123,
       "username": "candiatemaster2048",
       "games": 568,
       "rating": 1762,
@@ -995,7 +987,7 @@
       "profile": "https://lichess.org/@/candiatemaster2048"
     },
     {
-      "rank": 125,
+      "rank": 124,
       "username": "demoontop",
       "games": 568,
       "rating": 2073,
@@ -1003,7 +995,7 @@
       "profile": "https://lichess.org/@/demoontop"
     },
     {
-      "rank": 126,
+      "rank": 125,
       "username": "hagan_chyrka",
       "games": 568,
       "rating": 2671,
@@ -1011,7 +1003,7 @@
       "profile": "https://lichess.org/@/hagan_chyrka"
     },
     {
-      "rank": 127,
+      "rank": 126,
       "username": "hrishikeshps",
       "games": 568,
       "rating": 2055,
@@ -1019,7 +1011,7 @@
       "profile": "https://lichess.org/@/hrishikeshps"
     },
     {
-      "rank": 128,
+      "rank": 127,
       "username": "judenyc",
       "games": 565,
       "rating": 2060,
@@ -1027,12 +1019,20 @@
       "profile": "https://lichess.org/@/judenyc"
     },
     {
-      "rank": 129,
+      "rank": 128,
       "username": "mirror_mirror",
       "games": 562,
       "rating": 1428,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/mirror_mirror"
+    },
+    {
+      "rank": 129,
+      "username": "usaftwa",
+      "games": 558,
+      "rating": 1450,
+      "source": "Lobby-Crawl",
+      "profile": "https://lichess.org/@/usaftwa"
     },
     {
       "rank": 130,
@@ -6380,6 +6380,14 @@
     },
     {
       "rank": 798,
+      "username": "mr-rivy",
+      "games": 110,
+      "rating": 1254,
+      "source": "Lobby-Crawl",
+      "profile": "https://lichess.org/@/mr-rivy"
+    },
+    {
+      "rank": 799,
       "username": "vihaanthelegend1214",
       "games": 110,
       "rating": 1327,
@@ -6387,7 +6395,7 @@
       "profile": "https://lichess.org/@/vihaanthelegend1214"
     },
     {
-      "rank": 799,
+      "rank": 800,
       "username": "ayanshkarna",
       "games": 109,
       "rating": 1465,
@@ -6395,7 +6403,7 @@
       "profile": "https://lichess.org/@/ayanshkarna"
     },
     {
-      "rank": 800,
+      "rank": 801,
       "username": "nurni09",
       "games": 109,
       "rating": 1616,
@@ -6403,7 +6411,7 @@
       "profile": "https://lichess.org/@/nurni09"
     },
     {
-      "rank": 801,
+      "rank": 802,
       "username": "reesef",
       "games": 109,
       "rating": 1951,
@@ -6411,7 +6419,7 @@
       "profile": "https://lichess.org/@/reesef"
     },
     {
-      "rank": 802,
+      "rank": 803,
       "username": "ayanshuraj",
       "games": 108,
       "rating": 1707,
@@ -6419,7 +6427,7 @@
       "profile": "https://lichess.org/@/ayanshuraj"
     },
     {
-      "rank": 803,
+      "rank": 804,
       "username": "cheeserguy",
       "games": 108,
       "rating": 2162,
@@ -6427,20 +6435,12 @@
       "profile": "https://lichess.org/@/cheeserguy"
     },
     {
-      "rank": 804,
+      "rank": 805,
       "username": "mohi4",
       "games": 108,
       "rating": 2019,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/mohi4"
-    },
-    {
-      "rank": 805,
-      "username": "mr-rivy",
-      "games": 108,
-      "rating": 1254,
-      "source": "Lobby-Crawl",
-      "profile": "https://lichess.org/@/mr-rivy"
     },
     {
       "rank": 806,
