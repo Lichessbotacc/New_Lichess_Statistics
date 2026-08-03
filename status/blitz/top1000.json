@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-03T00:04:33.918035+00:00",
+  "updated_at": "2026-08-03T00:09:41.314786+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -340,14 +340,6 @@
     },
     {
       "rank": 43,
-      "username": "lomonosov-72",
-      "games": 652,
-      "rating": 2239,
-      "source": "Turnier",
-      "profile": "https://lichess.org/@/lomonosov-72"
-    },
-    {
-      "rank": 44,
       "username": "gnevchess29",
       "games": 647,
       "rating": 1944,
@@ -355,7 +347,7 @@
       "profile": "https://lichess.org/@/gnevchess29"
     },
     {
-      "rank": 45,
+      "rank": 44,
       "username": "pugo2",
       "games": 641,
       "rating": 1693,
@@ -363,7 +355,7 @@
       "profile": "https://lichess.org/@/pugo2"
     },
     {
-      "rank": 46,
+      "rank": 45,
       "username": "rrr_777",
       "games": 638,
       "rating": 1893,
@@ -371,7 +363,7 @@
       "profile": "https://lichess.org/@/rrr_777"
     },
     {
-      "rank": 47,
+      "rank": 46,
       "username": "gtaivan",
       "games": 632,
       "rating": 1921,
@@ -379,7 +371,7 @@
       "profile": "https://lichess.org/@/gtaivan"
     },
     {
-      "rank": 48,
+      "rank": 47,
       "username": "graymayster",
       "games": 630,
       "rating": 2175,
@@ -387,7 +379,7 @@
       "profile": "https://lichess.org/@/graymayster"
     },
     {
-      "rank": 49,
+      "rank": 48,
       "username": "hacheg",
       "games": 630,
       "rating": 2145,
@@ -395,12 +387,20 @@
       "profile": "https://lichess.org/@/hacheg"
     },
     {
-      "rank": 50,
+      "rank": 49,
       "username": "k7ris",
       "games": 630,
       "rating": 1567,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/k7ris"
+    },
+    {
+      "rank": 50,
+      "username": "lomonosov-72",
+      "games": 626,
+      "rating": 2239,
+      "source": "Turnier",
+      "profile": "https://lichess.org/@/lomonosov-72"
     },
     {
       "rank": 51,
