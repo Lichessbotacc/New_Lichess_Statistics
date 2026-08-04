@@ -1,22 +1,22 @@
 {
-  "updated_at": "2026-08-04T13:06:15.300771+00:00",
+  "updated_at": "2026-08-04T13:11:18.078714+00:00",
   "since_days": 7,
   "top10": [
     {
       "rank": 1,
-      "username": "jobijo",
-      "games": 316,
-      "rating": 1975,
-      "source": "Lobby-Crawl",
-      "profile": "https://lichess.org/@/jobijo"
-    },
-    {
-      "rank": 2,
       "username": "yashhoo7",
       "games": 264,
       "rating": 1525,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/yashhoo7"
+    },
+    {
+      "rank": 2,
+      "username": "jobijo",
+      "games": 260,
+      "rating": 1975,
+      "source": "Lobby-Crawl",
+      "profile": "https://lichess.org/@/jobijo"
     },
     {
       "rank": 3,
@@ -1972,14 +1972,6 @@
     },
     {
       "rank": 247,
-      "username": "borisbekker73",
-      "games": 68,
-      "rating": 2022,
-      "source": "Lobby-Crawl",
-      "profile": "https://lichess.org/@/borisbekker73"
-    },
-    {
-      "rank": 248,
       "username": "chessman1986",
       "games": 68,
       "rating": 1636,
@@ -1987,7 +1979,7 @@
       "profile": "https://lichess.org/@/chessman1986"
     },
     {
-      "rank": 249,
+      "rank": 248,
       "username": "farouq1969",
       "games": 68,
       "rating": 1780,
@@ -1995,7 +1987,7 @@
       "profile": "https://lichess.org/@/farouq1969"
     },
     {
-      "rank": 250,
+      "rank": 249,
       "username": "jugumoleson",
       "games": 68,
       "rating": 1450,
@@ -2003,7 +1995,7 @@
       "profile": "https://lichess.org/@/jugumoleson"
     },
     {
-      "rank": 251,
+      "rank": 250,
       "username": "leonruben",
       "games": 68,
       "rating": 1417,
@@ -2011,7 +2003,7 @@
       "profile": "https://lichess.org/@/leonruben"
     },
     {
-      "rank": 252,
+      "rank": 251,
       "username": "a_m_5",
       "games": 67,
       "rating": 1301,
@@ -2019,7 +2011,7 @@
       "profile": "https://lichess.org/@/a_m_5"
     },
     {
-      "rank": 253,
+      "rank": 252,
       "username": "amey18",
       "games": 67,
       "rating": 1133,
@@ -2027,12 +2019,20 @@
       "profile": "https://lichess.org/@/amey18"
     },
     {
-      "rank": 254,
+      "rank": 253,
       "username": "artfexbalian",
       "games": 67,
       "rating": 879,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/artfexbalian"
+    },
+    {
+      "rank": 254,
+      "username": "borisbekker73",
+      "games": 67,
+      "rating": 2022,
+      "source": "Lobby-Crawl",
+      "profile": "https://lichess.org/@/borisbekker73"
     },
     {
       "rank": 255,
