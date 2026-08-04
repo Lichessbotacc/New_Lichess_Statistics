@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-04T23:00:34.153759+00:00",
+  "updated_at": "2026-08-04T23:05:34.205559+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -52,14 +52,6 @@
     },
     {
       "rank": 7,
-      "username": "shahnov1977",
-      "games": 1015,
-      "rating": 1142,
-      "source": "Lobby-Crawl",
-      "profile": "https://lichess.org/@/shahnov1977"
-    },
-    {
-      "rank": 8,
       "username": "thefastghost",
       "games": 989,
       "rating": 1739,
@@ -67,7 +59,7 @@
       "profile": "https://lichess.org/@/thefastghost"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "username": "ludochess",
       "games": 954,
       "rating": 2047,
@@ -75,7 +67,7 @@
       "profile": "https://lichess.org/@/ludochess"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "username": "wckarth",
       "games": 951,
       "rating": 1802,
@@ -83,7 +75,7 @@
       "profile": "https://lichess.org/@/wckarth"
     },
     {
-      "rank": 11,
+      "rank": 10,
       "username": "mosed1",
       "games": 945,
       "rating": 2171,
@@ -91,7 +83,7 @@
       "profile": "https://lichess.org/@/mosed1"
     },
     {
-      "rank": 12,
+      "rank": 11,
       "username": "bima23",
       "games": 922,
       "rating": 1716,
@@ -99,7 +91,7 @@
       "profile": "https://lichess.org/@/bima23"
     },
     {
-      "rank": 13,
+      "rank": 12,
       "username": "german11",
       "games": 919,
       "rating": 1297,
@@ -107,7 +99,7 @@
       "profile": "https://lichess.org/@/german11"
     },
     {
-      "rank": 14,
+      "rank": 13,
       "username": "meerbos14",
       "games": 887,
       "rating": 2165,
@@ -115,7 +107,7 @@
       "profile": "https://lichess.org/@/meerbos14"
     },
     {
-      "rank": 15,
+      "rank": 14,
       "username": "igp_sasambo",
       "games": 857,
       "rating": 1983,
@@ -123,7 +115,7 @@
       "profile": "https://lichess.org/@/igp_sasambo"
     },
     {
-      "rank": 16,
+      "rank": 15,
       "username": "neuer_markt",
       "games": 812,
       "rating": 1623,
@@ -131,7 +123,7 @@
       "profile": "https://lichess.org/@/neuer_markt"
     },
     {
-      "rank": 17,
+      "rank": 16,
       "username": "belaruswarrior",
       "games": 789,
       "rating": 2455,
@@ -139,12 +131,20 @@
       "profile": "https://lichess.org/@/belaruswarrior"
     },
     {
-      "rank": 18,
+      "rank": 17,
       "username": "wowpawn",
       "games": 785,
       "rating": 1673,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/wowpawn"
+    },
+    {
+      "rank": 18,
+      "username": "shahnov1977",
+      "games": 784,
+      "rating": 1142,
+      "source": "Lobby-Crawl",
+      "profile": "https://lichess.org/@/shahnov1977"
     },
     {
       "rank": 19,
@@ -7980,6 +7980,14 @@
     },
     {
       "rank": 998,
+      "username": "dibronze3438",
+      "games": 305,
+      "rating": 1072,
+      "source": "Lobby-Crawl",
+      "profile": "https://lichess.org/@/dibronze3438"
+    },
+    {
+      "rank": 999,
       "username": "gnus666",
       "games": 304,
       "rating": 1710,
@@ -7987,20 +7995,12 @@
       "profile": "https://lichess.org/@/gnus666"
     },
     {
-      "rank": 999,
+      "rank": 1000,
       "username": "harry1969",
       "games": 304,
       "rating": 1806,
       "source": "Turnier",
       "profile": "https://lichess.org/@/harry1969"
-    },
-    {
-      "rank": 1000,
-      "username": "k4rp4s0v",
-      "games": 304,
-      "rating": 2054,
-      "source": "Turnier",
-      "profile": "https://lichess.org/@/k4rp4s0v"
     }
   ]
 }
