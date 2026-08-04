@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-04T03:30:11.232702+00:00",
+  "updated_at": "2026-08-04T03:35:13.628013+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -364,14 +364,6 @@
     },
     {
       "rank": 46,
-      "username": "starryknights",
-      "games": 908,
-      "rating": 1415,
-      "source": "Lobby-Crawl",
-      "profile": "https://lichess.org/@/starryknights"
-    },
-    {
-      "rank": 47,
       "username": "tmuratc",
       "games": 908,
       "rating": 1813,
@@ -379,12 +371,20 @@
       "profile": "https://lichess.org/@/tmuratc"
     },
     {
-      "rank": 48,
+      "rank": 47,
       "username": "runai",
       "games": 899,
       "rating": 1819,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/runai"
+    },
+    {
+      "rank": 48,
+      "username": "starryknights",
+      "games": 899,
+      "rating": 1415,
+      "source": "Lobby-Crawl",
+      "profile": "https://lichess.org/@/starryknights"
     },
     {
       "rank": 49,
