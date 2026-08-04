@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-04T04:03:59.210656+00:00",
+  "updated_at": "2026-08-04T04:09:18.565352+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -7964,6 +7964,14 @@
     },
     {
       "rank": 996,
+      "username": "jfacar",
+      "games": 301,
+      "rating": 2133,
+      "source": "Lobby-Crawl",
+      "profile": "https://lichess.org/@/jfacar"
+    },
+    {
+      "rank": 997,
       "username": "aliima",
       "games": 300,
       "rating": 1820,
@@ -7971,7 +7979,7 @@
       "profile": "https://lichess.org/@/aliima"
     },
     {
-      "rank": 997,
+      "rank": 998,
       "username": "alohavulcan1323",
       "games": 300,
       "rating": 1822,
@@ -7979,7 +7987,7 @@
       "profile": "https://lichess.org/@/alohavulcan1323"
     },
     {
-      "rank": 998,
+      "rank": 999,
       "username": "braveeagle4",
       "games": 300,
       "rating": 1690,
@@ -7987,20 +7995,12 @@
       "profile": "https://lichess.org/@/braveeagle4"
     },
     {
-      "rank": 999,
+      "rank": 1000,
       "username": "dmitriy-1971",
       "games": 300,
       "rating": 2151,
       "source": "Turnier",
       "profile": "https://lichess.org/@/dmitriy-1971"
-    },
-    {
-      "rank": 1000,
-      "username": "lorioted",
-      "games": 300,
-      "rating": 2207,
-      "source": "Lobby-Crawl",
-      "profile": "https://lichess.org/@/lorioted"
     }
   ]
 }
