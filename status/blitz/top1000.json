@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-04T15:02:07.270099+00:00",
+  "updated_at": "2026-08-04T15:12:22.292211+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -724,19 +724,19 @@
     },
     {
       "rank": 91,
-      "username": "ns_68",
-      "games": 545,
-      "rating": 1330,
-      "source": "Lobby-Crawl",
-      "profile": "https://lichess.org/@/ns_68"
-    },
-    {
-      "rank": 92,
       "username": "lopangsephothele",
       "games": 545,
       "rating": 2045,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/lopangsephothele"
+    },
+    {
+      "rank": 92,
+      "username": "ns_68",
+      "games": 545,
+      "rating": 1330,
+      "source": "Lobby-Crawl",
+      "profile": "https://lichess.org/@/ns_68"
     },
     {
       "rank": 93,
@@ -5308,6 +5308,14 @@
     },
     {
       "rank": 664,
+      "username": "misap",
+      "games": 339,
+      "rating": 1803,
+      "source": "Lobby-Crawl",
+      "profile": "https://lichess.org/@/misap"
+    },
+    {
+      "rank": 665,
       "username": "rommelrivera443",
       "games": 339,
       "rating": 1693,
@@ -5315,7 +5323,7 @@
       "profile": "https://lichess.org/@/rommelrivera443"
     },
     {
-      "rank": 665,
+      "rank": 666,
       "username": "stmichael808",
       "games": 339,
       "rating": 1500,
@@ -5323,7 +5331,7 @@
       "profile": "https://lichess.org/@/stmichael808"
     },
     {
-      "rank": 666,
+      "rank": 667,
       "username": "triance98",
       "games": 339,
       "rating": 1868,
@@ -5331,20 +5339,12 @@
       "profile": "https://lichess.org/@/triance98"
     },
     {
-      "rank": 667,
+      "rank": 668,
       "username": "zanganox",
       "games": 339,
       "rating": 2267,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/zanganox"
-    },
-    {
-      "rank": 668,
-      "username": "misap",
-      "games": 339,
-      "rating": 1803,
-      "source": "Lobby-Crawl",
-      "profile": "https://lichess.org/@/misap"
     },
     {
       "rank": 669,
@@ -6476,19 +6476,19 @@
     },
     {
       "rank": 810,
-      "username": "xavounet",
-      "games": 320,
-      "rating": 1344,
-      "source": "Lobby-Crawl",
-      "profile": "https://lichess.org/@/xavounet"
-    },
-    {
-      "rank": 811,
       "username": "morgath42",
       "games": 320,
       "rating": 1458,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/morgath42"
+    },
+    {
+      "rank": 811,
+      "username": "xavounet",
+      "games": 320,
+      "rating": 1344,
+      "source": "Lobby-Crawl",
+      "profile": "https://lichess.org/@/xavounet"
     },
     {
       "rank": 812,
