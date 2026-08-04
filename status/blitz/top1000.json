@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-04T13:23:05.367804+00:00",
+  "updated_at": "2026-08-04T13:28:44.740292+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -7980,6 +7980,14 @@
     },
     {
       "rank": 998,
+      "username": "nebelkraehe07",
+      "games": 302,
+      "rating": 1085,
+      "source": "Turnier",
+      "profile": "https://lichess.org/@/nebelkraehe07"
+    },
+    {
+      "rank": 999,
       "username": "sushkr",
       "games": 302,
       "rating": 1428,
@@ -7987,20 +7995,12 @@
       "profile": "https://lichess.org/@/sushkr"
     },
     {
-      "rank": 999,
+      "rank": 1000,
       "username": "clintonoyim",
       "games": 301,
       "rating": 2052,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/clintonoyim"
-    },
-    {
-      "rank": 1000,
-      "username": "dubistich",
-      "games": 301,
-      "rating": 1544,
-      "source": "Lobby-Crawl",
-      "profile": "https://lichess.org/@/dubistich"
     }
   ]
 }
