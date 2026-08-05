@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T05:57:12.179021+00:00",
+  "updated_at": "2026-08-05T06:02:16.738041+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -7972,14 +7972,6 @@
     },
     {
       "rank": 997,
-      "username": "chessgrandmaster0202",
-      "games": 551,
-      "rating": 2281,
-      "source": "Turnier",
-      "profile": "https://lichess.org/@/chessgrandmaster0202"
-    },
-    {
-      "rank": 998,
       "username": "err_0",
       "games": 550,
       "rating": 1954,
@@ -7987,7 +7979,7 @@
       "profile": "https://lichess.org/@/err_0"
     },
     {
-      "rank": 999,
+      "rank": 998,
       "username": "ezrg94",
       "games": 550,
       "rating": 1983,
@@ -7995,12 +7987,20 @@
       "profile": "https://lichess.org/@/ezrg94"
     },
     {
-      "rank": 1000,
+      "rank": 999,
       "username": "gorrthanoshela",
       "games": 550,
       "rating": 2507,
       "source": "Turnier",
       "profile": "https://lichess.org/@/gorrthanoshela"
+    },
+    {
+      "rank": 1000,
+      "username": "lanarizdealdebaran",
+      "games": 550,
+      "rating": 2535,
+      "source": "Lobby-Crawl",
+      "profile": "https://lichess.org/@/lanarizdealdebaran"
     }
   ]
 }
