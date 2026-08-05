@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T08:53:28.401975+00:00",
+  "updated_at": "2026-08-05T08:59:53.880757+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -188,14 +188,6 @@
     },
     {
       "rank": 24,
-      "username": "gmud",
-      "games": 1213,
-      "rating": 1526,
-      "source": "Turnier",
-      "profile": "https://lichess.org/@/gmud"
-    },
-    {
-      "rank": 25,
       "username": "sling16",
       "games": 1192,
       "rating": 1850,
@@ -203,7 +195,7 @@
       "profile": "https://lichess.org/@/sling16"
     },
     {
-      "rank": 26,
+      "rank": 25,
       "username": "spiderlosser3",
       "games": 1151,
       "rating": 1415,
@@ -211,7 +203,7 @@
       "profile": "https://lichess.org/@/spiderlosser3"
     },
     {
-      "rank": 27,
+      "rank": 26,
       "username": "mrsst",
       "games": 1131,
       "rating": 2074,
@@ -219,7 +211,7 @@
       "profile": "https://lichess.org/@/mrsst"
     },
     {
-      "rank": 28,
+      "rank": 27,
       "username": "kingdayvid",
       "games": 1130,
       "rating": 1224,
@@ -227,7 +219,7 @@
       "profile": "https://lichess.org/@/kingdayvid"
     },
     {
-      "rank": 29,
+      "rank": 28,
       "username": "eatthemalive",
       "games": 1105,
       "rating": 1933,
@@ -235,7 +227,7 @@
       "profile": "https://lichess.org/@/eatthemalive"
     },
     {
-      "rank": 30,
+      "rank": 29,
       "username": "chaktic_gaming",
       "games": 1097,
       "rating": 1842,
@@ -243,12 +235,20 @@
       "profile": "https://lichess.org/@/chaktic_gaming"
     },
     {
-      "rank": 31,
+      "rank": 30,
       "username": "ymneren",
       "games": 1084,
       "rating": 1910,
       "source": "Turnier",
       "profile": "https://lichess.org/@/ymneren"
+    },
+    {
+      "rank": 31,
+      "username": "gmud",
+      "games": 1081,
+      "rating": 1526,
+      "source": "Turnier",
+      "profile": "https://lichess.org/@/gmud"
     },
     {
       "rank": 32,
