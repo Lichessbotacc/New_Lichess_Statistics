@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T17:46:13.443672+00:00",
+  "updated_at": "2026-08-05T17:51:18.203616+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -7972,14 +7972,6 @@
     },
     {
       "rank": 997,
-      "username": "mukulraj7",
-      "games": 309,
-      "rating": 1113,
-      "source": "Turnier",
-      "profile": "https://lichess.org/@/mukulraj7"
-    },
-    {
-      "rank": 998,
       "username": "never123",
       "games": 309,
       "rating": 1612,
@@ -7987,7 +7979,7 @@
       "profile": "https://lichess.org/@/never123"
     },
     {
-      "rank": 999,
+      "rank": 998,
       "username": "rvlc",
       "games": 309,
       "rating": 2354,
@@ -7995,12 +7987,20 @@
       "profile": "https://lichess.org/@/rvlc"
     },
     {
-      "rank": 1000,
+      "rank": 999,
       "username": "wilson_v",
       "games": 309,
       "rating": 1437,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/wilson_v"
+    },
+    {
+      "rank": 1000,
+      "username": "zakariyyay",
+      "games": 309,
+      "rating": 2359,
+      "source": "Lobby-Crawl",
+      "profile": "https://lichess.org/@/zakariyyay"
     }
   ]
 }
