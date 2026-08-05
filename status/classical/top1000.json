@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T07:00:47.783922+00:00",
+  "updated_at": "2026-08-05T07:05:49.391824+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "rank": 3,
+      "username": "voin666",
+      "games": 225,
+      "rating": 1497,
+      "source": "Lobby-Crawl",
+      "profile": "https://lichess.org/@/voin666"
+    },
+    {
+      "rank": 4,
       "username": "albin8340",
       "games": 212,
       "rating": 1559,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/albin8340"
-    },
-    {
-      "rank": 4,
-      "username": "voin666",
-      "games": 190,
-      "rating": 1497,
-      "source": "Lobby-Crawl",
-      "profile": "https://lichess.org/@/voin666"
     },
     {
       "rank": 5,
@@ -412,14 +412,6 @@
     },
     {
       "rank": 52,
-      "username": "shelface",
-      "games": 116,
-      "rating": 1329,
-      "source": "Lobby-Crawl",
-      "profile": "https://lichess.org/@/shelface"
-    },
-    {
-      "rank": 53,
       "username": "sphinxcode0",
       "games": 116,
       "rating": 799,
@@ -427,7 +419,7 @@
       "profile": "https://lichess.org/@/sphinxcode0"
     },
     {
-      "rank": 54,
+      "rank": 53,
       "username": "amork",
       "games": 115,
       "rating": 1823,
@@ -435,7 +427,7 @@
       "profile": "https://lichess.org/@/amork"
     },
     {
-      "rank": 55,
+      "rank": 54,
       "username": "cesar_042876",
       "games": 115,
       "rating": 1652,
@@ -443,7 +435,7 @@
       "profile": "https://lichess.org/@/cesar_042876"
     },
     {
-      "rank": 56,
+      "rank": 55,
       "username": "club14_dd",
       "games": 115,
       "rating": 1795,
@@ -451,12 +443,20 @@
       "profile": "https://lichess.org/@/club14_dd"
     },
     {
-      "rank": 57,
+      "rank": 56,
       "username": "nikolay_lubchenko",
       "games": 115,
       "rating": 1679,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/nikolay_lubchenko"
+    },
+    {
+      "rank": 57,
+      "username": "shelface",
+      "games": 115,
+      "rating": 1329,
+      "source": "Lobby-Crawl",
+      "profile": "https://lichess.org/@/shelface"
     },
     {
       "rank": 58,
