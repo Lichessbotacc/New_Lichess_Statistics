@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-06T09:18:30.518750+00:00",
+  "updated_at": "2026-08-06T09:25:45.817651+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -244,19 +244,19 @@
     },
     {
       "rank": 31,
-      "username": "gmud",
-      "games": 1081,
-      "rating": 1526,
-      "source": "Turnier",
-      "profile": "https://lichess.org/@/gmud"
-    },
-    {
-      "rank": 32,
       "username": "amt05",
       "games": 1078,
       "rating": 2300,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/amt05"
+    },
+    {
+      "rank": 32,
+      "username": "gmud",
+      "games": 1074,
+      "rating": 1526,
+      "source": "Turnier",
+      "profile": "https://lichess.org/@/gmud"
     },
     {
       "rank": 33,
@@ -453,7 +453,7 @@
     {
       "rank": 57,
       "username": "electro_sibnsu",
-      "games": 844,
+      "games": 854,
       "rating": 1342,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/electro_sibnsu"
