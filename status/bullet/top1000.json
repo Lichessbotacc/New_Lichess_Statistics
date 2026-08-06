@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-06T06:47:40.974578+00:00",
+  "updated_at": "2026-08-06T06:54:58.389302+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -268,6 +268,14 @@
     },
     {
       "rank": 34,
+      "username": "red_arctic_fox",
+      "games": 1373,
+      "rating": 1865,
+      "source": "Turnier",
+      "profile": "https://lichess.org/@/red_arctic_fox"
+    },
+    {
+      "rank": 35,
       "username": "alejandroalfonzo",
       "games": 1369,
       "rating": 2304,
@@ -275,20 +283,12 @@
       "profile": "https://lichess.org/@/alejandroalfonzo"
     },
     {
-      "rank": 35,
+      "rank": 36,
       "username": "isladave60",
       "games": 1365,
       "rating": 1382,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/isladave60"
-    },
-    {
-      "rank": 36,
-      "username": "red_arctic_fox",
-      "games": 1360,
-      "rating": 1865,
-      "source": "Turnier",
-      "profile": "https://lichess.org/@/red_arctic_fox"
     },
     {
       "rank": 37,
@@ -7332,14 +7332,6 @@
     },
     {
       "rank": 917,
-      "username": "ravi28750",
-      "games": 588,
-      "rating": 1971,
-      "source": "Turnier",
-      "profile": "https://lichess.org/@/ravi28750"
-    },
-    {
-      "rank": 918,
       "username": "tactictal",
       "games": 588,
       "rating": 1865,
@@ -7347,7 +7339,7 @@
       "profile": "https://lichess.org/@/tactictal"
     },
     {
-      "rank": 919,
+      "rank": 918,
       "username": "bbbb_1360",
       "games": 587,
       "rating": 2044,
@@ -7355,12 +7347,20 @@
       "profile": "https://lichess.org/@/bbbb_1360"
     },
     {
-      "rank": 920,
+      "rank": 919,
       "username": "derrick_d",
       "games": 587,
       "rating": 2201,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/derrick_d"
+    },
+    {
+      "rank": 920,
+      "username": "ravi28750",
+      "games": 587,
+      "rating": 1971,
+      "source": "Turnier",
+      "profile": "https://lichess.org/@/ravi28750"
     },
     {
       "rank": 921,
