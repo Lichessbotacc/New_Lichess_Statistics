@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-06T11:11:10.070287+00:00",
+  "updated_at": "2026-08-06T11:17:25.162471+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -1124,14 +1124,6 @@
     },
     {
       "rank": 141,
-      "username": "mrezai",
-      "games": 507,
-      "rating": 1494,
-      "source": "Turnier",
-      "profile": "https://lichess.org/@/mrezai"
-    },
-    {
-      "rank": 142,
       "username": "mirror_mirror",
       "games": 505,
       "rating": 1428,
@@ -1139,7 +1131,7 @@
       "profile": "https://lichess.org/@/mirror_mirror"
     },
     {
-      "rank": 143,
+      "rank": 142,
       "username": "bullet3060",
       "games": 501,
       "rating": 1679,
@@ -1147,7 +1139,7 @@
       "profile": "https://lichess.org/@/bullet3060"
     },
     {
-      "rank": 144,
+      "rank": 143,
       "username": "brianmoser00",
       "games": 500,
       "rating": 2166,
@@ -1155,12 +1147,20 @@
       "profile": "https://lichess.org/@/brianmoser00"
     },
     {
-      "rank": 145,
+      "rank": 144,
       "username": "conqueror_ryan",
       "games": 500,
       "rating": 1981,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/conqueror_ryan"
+    },
+    {
+      "rank": 145,
+      "username": "mrezai",
+      "games": 499,
+      "rating": 1494,
+      "source": "Turnier",
+      "profile": "https://lichess.org/@/mrezai"
     },
     {
       "rank": 146,
