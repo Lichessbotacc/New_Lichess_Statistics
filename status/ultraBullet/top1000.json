@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-06T23:46:50.341512+00:00",
+  "updated_at": "2026-08-06T23:54:48.324699+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -148,6 +148,14 @@
     },
     {
       "rank": 19,
+      "username": "casualchess420",
+      "games": 1356,
+      "rating": 1960,
+      "source": "Lobby-Crawl",
+      "profile": "https://lichess.org/@/casualchess420"
+    },
+    {
+      "rank": 20,
       "username": "chaktic_gaming",
       "games": 1347,
       "rating": 1842,
@@ -155,7 +163,7 @@
       "profile": "https://lichess.org/@/chaktic_gaming"
     },
     {
-      "rank": 20,
+      "rank": 21,
       "username": "leeuw7",
       "games": 1321,
       "rating": 1346,
@@ -163,7 +171,7 @@
       "profile": "https://lichess.org/@/leeuw7"
     },
     {
-      "rank": 21,
+      "rank": 22,
       "username": "abhay-10",
       "games": 1312,
       "rating": 2054,
@@ -171,20 +179,12 @@
       "profile": "https://lichess.org/@/abhay-10"
     },
     {
-      "rank": 22,
+      "rank": 23,
       "username": "pyper_mate",
       "games": 1303,
       "rating": 2202,
       "source": "Turnier",
       "profile": "https://lichess.org/@/pyper_mate"
-    },
-    {
-      "rank": 23,
-      "username": "casualchess420",
-      "games": 1286,
-      "rating": 1960,
-      "source": "Lobby-Crawl",
-      "profile": "https://lichess.org/@/casualchess420"
     },
     {
       "rank": 24,
@@ -436,14 +436,6 @@
     },
     {
       "rank": 55,
-      "username": "starryknights",
-      "games": 909,
-      "rating": 1415,
-      "source": "Lobby-Crawl",
-      "profile": "https://lichess.org/@/starryknights"
-    },
-    {
-      "rank": 56,
       "username": "almanac71",
       "games": 907,
       "rating": 1983,
@@ -451,12 +443,20 @@
       "profile": "https://lichess.org/@/almanac71"
     },
     {
-      "rank": 57,
+      "rank": 56,
       "username": "kingdayvid",
       "games": 903,
       "rating": 1224,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/kingdayvid"
+    },
+    {
+      "rank": 57,
+      "username": "starryknights",
+      "games": 896,
+      "rating": 1415,
+      "source": "Lobby-Crawl",
+      "profile": "https://lichess.org/@/starryknights"
     },
     {
       "rank": 58,
