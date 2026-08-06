@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-06T14:40:15.295474+00:00",
+  "updated_at": "2026-08-06T14:45:18.849729+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -36,14 +36,6 @@
     },
     {
       "rank": 5,
-      "username": "suckouttt",
-      "games": 2148,
-      "rating": 2572,
-      "source": "Turnier",
-      "profile": "https://lichess.org/@/suckouttt"
-    },
-    {
-      "rank": 6,
       "username": "gionabaldo",
       "games": 2022,
       "rating": 2442,
@@ -51,7 +43,7 @@
       "profile": "https://lichess.org/@/gionabaldo"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "username": "janborm",
       "games": 1955,
       "rating": 2053,
@@ -59,7 +51,7 @@
       "profile": "https://lichess.org/@/janborm"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "username": "fahadesque",
       "games": 1931,
       "rating": 1642,
@@ -67,7 +59,7 @@
       "profile": "https://lichess.org/@/fahadesque"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "username": "rupic",
       "games": 1882,
       "rating": 2508,
@@ -75,7 +67,7 @@
       "profile": "https://lichess.org/@/rupic"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "username": "brayanzhang2023",
       "games": 1870,
       "rating": 1636,
@@ -83,7 +75,7 @@
       "profile": "https://lichess.org/@/brayanzhang2023"
     },
     {
-      "rank": 11,
+      "rank": 10,
       "username": "point-blank7",
       "games": 1830,
       "rating": 2327,
@@ -91,12 +83,20 @@
       "profile": "https://lichess.org/@/point-blank7"
     },
     {
-      "rank": 12,
+      "rank": 11,
       "username": "julianbook",
       "games": 1825,
       "rating": 1464,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/julianbook"
+    },
+    {
+      "rank": 12,
+      "username": "suckouttt",
+      "games": 1814,
+      "rating": 2572,
+      "source": "Turnier",
+      "profile": "https://lichess.org/@/suckouttt"
     },
     {
       "rank": 13,
@@ -300,6 +300,14 @@
     },
     {
       "rank": 38,
+      "username": "rubblechess",
+      "games": 1369,
+      "rating": 2115,
+      "source": "Turnier",
+      "profile": "https://lichess.org/@/rubblechess"
+    },
+    {
+      "rank": 39,
       "username": "isladave60",
       "games": 1365,
       "rating": 1382,
@@ -307,7 +315,7 @@
       "profile": "https://lichess.org/@/isladave60"
     },
     {
-      "rank": 39,
+      "rank": 40,
       "username": "grimey1",
       "games": 1362,
       "rating": 1500,
@@ -315,20 +323,12 @@
       "profile": "https://lichess.org/@/grimey1"
     },
     {
-      "rank": 40,
+      "rank": 41,
       "username": "thobisch",
       "games": 1361,
       "rating": 2410,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/thobisch"
-    },
-    {
-      "rank": 41,
-      "username": "rubblechess",
-      "games": 1338,
-      "rating": 2115,
-      "source": "Turnier",
-      "profile": "https://lichess.org/@/rubblechess"
     },
     {
       "rank": 42,
