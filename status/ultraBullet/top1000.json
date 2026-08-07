@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T20:25:24.387963+00:00",
+  "updated_at": "2026-08-07T20:30:29.997949+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -1092,6 +1092,14 @@
     },
     {
       "rank": 137,
+      "username": "chrisxz33",
+      "games": 523,
+      "rating": 1912,
+      "source": "Lobby-Crawl",
+      "profile": "https://lichess.org/@/chrisxz33"
+    },
+    {
+      "rank": 138,
       "username": "peacemaker3",
       "games": 522,
       "rating": 1506,
@@ -1099,7 +1107,7 @@
       "profile": "https://lichess.org/@/peacemaker3"
     },
     {
-      "rank": 138,
+      "rank": 139,
       "username": "pruki",
       "games": 522,
       "rating": 1607,
@@ -1107,7 +1115,7 @@
       "profile": "https://lichess.org/@/pruki"
     },
     {
-      "rank": 139,
+      "rank": 140,
       "username": "tabula_rasa_x",
       "games": 520,
       "rating": 2092,
@@ -1115,7 +1123,7 @@
       "profile": "https://lichess.org/@/tabula_rasa_x"
     },
     {
-      "rank": 140,
+      "rank": 141,
       "username": "stayscaffolded",
       "games": 513,
       "rating": 2058,
@@ -1123,7 +1131,7 @@
       "profile": "https://lichess.org/@/stayscaffolded"
     },
     {
-      "rank": 141,
+      "rank": 142,
       "username": "w1267",
       "games": 513,
       "rating": 2049,
@@ -1131,7 +1139,7 @@
       "profile": "https://lichess.org/@/w1267"
     },
     {
-      "rank": 142,
+      "rank": 143,
       "username": "sarawpxb",
       "games": 506,
       "rating": 1933,
@@ -1139,7 +1147,7 @@
       "profile": "https://lichess.org/@/sarawpxb"
     },
     {
-      "rank": 143,
+      "rank": 144,
       "username": "badmanuno",
       "games": 505,
       "rating": 1753,
@@ -1147,20 +1155,12 @@
       "profile": "https://lichess.org/@/badmanuno"
     },
     {
-      "rank": 144,
+      "rank": 145,
       "username": "runai",
       "games": 505,
       "rating": 1819,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/runai"
-    },
-    {
-      "rank": 145,
-      "username": "brianmoser00",
-      "games": 500,
-      "rating": 2166,
-      "source": "Lobby-Crawl",
-      "profile": "https://lichess.org/@/brianmoser00"
     },
     {
       "rank": 146,
@@ -1260,14 +1260,6 @@
     },
     {
       "rank": 158,
-      "username": "chrisxz33",
-      "games": 468,
-      "rating": 1912,
-      "source": "Lobby-Crawl",
-      "profile": "https://lichess.org/@/chrisxz33"
-    },
-    {
-      "rank": 159,
       "username": "cemo2010",
       "games": 466,
       "rating": 1598,
@@ -1275,12 +1267,20 @@
       "profile": "https://lichess.org/@/cemo2010"
     },
     {
-      "rank": 160,
+      "rank": 159,
       "username": "danttasz",
       "games": 466,
       "rating": 1710,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/danttasz"
+    },
+    {
+      "rank": 160,
+      "username": "brianmoser00",
+      "games": 464,
+      "rating": 2166,
+      "source": "Lobby-Crawl",
+      "profile": "https://lichess.org/@/brianmoser00"
     },
     {
       "rank": 161,
