@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T07:02:30.505378+00:00",
+  "updated_at": "2026-08-07T07:07:38.205690+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -7980,14 +7980,6 @@
     },
     {
       "rank": 998,
-      "username": "sadhan_chandra_ghosh",
-      "games": 192,
-      "rating": 1468,
-      "source": "Turnier",
-      "profile": "https://lichess.org/@/sadhan_chandra_ghosh"
-    },
-    {
-      "rank": 999,
       "username": "shmavonmar",
       "games": 192,
       "rating": 1488,
@@ -7995,12 +7987,20 @@
       "profile": "https://lichess.org/@/shmavonmar"
     },
     {
-      "rank": 1000,
+      "rank": 999,
       "username": "smit0044",
       "games": 192,
       "rating": 1800,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/smit0044"
+    },
+    {
+      "rank": 1000,
+      "username": "viraj2512",
+      "games": 192,
+      "rating": 1564,
+      "source": "Lobby-Crawl",
+      "profile": "https://lichess.org/@/viraj2512"
     }
   ]
 }
