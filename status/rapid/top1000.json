@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T02:55:54.398169+00:00",
+  "updated_at": "2026-08-07T03:01:00.032489+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -20,14 +20,6 @@
     },
     {
       "rank": 3,
-      "username": "frihhiwheri",
-      "games": 577,
-      "rating": 1682,
-      "source": "Turnier",
-      "profile": "https://lichess.org/@/frihhiwheri"
-    },
-    {
-      "rank": 4,
       "username": "peterbull",
       "games": 559,
       "rating": 1595,
@@ -35,7 +27,7 @@
       "profile": "https://lichess.org/@/peterbull"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "username": "terminally",
       "games": 554,
       "rating": 1297,
@@ -43,12 +35,20 @@
       "profile": "https://lichess.org/@/terminally"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "username": "swas9x",
       "games": 552,
       "rating": 1419,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/swas9x"
+    },
+    {
+      "rank": 6,
+      "username": "frihhiwheri",
+      "games": 530,
+      "rating": 1682,
+      "source": "Turnier",
+      "profile": "https://lichess.org/@/frihhiwheri"
     },
     {
       "rank": 7,
