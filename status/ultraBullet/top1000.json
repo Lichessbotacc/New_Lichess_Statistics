@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T09:12:48.642656+00:00",
+  "updated_at": "2026-08-07T09:17:49.331097+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -7980,14 +7980,6 @@
     },
     {
       "rank": 998,
-      "username": "magical_falcon",
-      "games": 91,
-      "rating": 1767,
-      "source": "Lobby-Crawl",
-      "profile": "https://lichess.org/@/magical_falcon"
-    },
-    {
-      "rank": 999,
       "username": "routedecroissant",
       "games": 91,
       "rating": 2213,
@@ -7995,12 +7987,20 @@
       "profile": "https://lichess.org/@/routedecroissant"
     },
     {
-      "rank": 1000,
+      "rank": 999,
       "username": "yakov25",
       "games": 91,
       "rating": 2304,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/yakov25"
+    },
+    {
+      "rank": 1000,
+      "username": "dashamelikhova",
+      "games": 90,
+      "rating": 1662,
+      "source": "Lobby-Crawl",
+      "profile": "https://lichess.org/@/dashamelikhova"
     }
   ]
 }
