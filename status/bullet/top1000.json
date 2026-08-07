@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T01:28:36.422878+00:00",
+  "updated_at": "2026-08-07T01:35:23.563555+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -7980,6 +7980,14 @@
     },
     {
       "rank": 998,
+      "username": "cavalo_doido",
+      "games": 574,
+      "rating": 1870,
+      "source": "Turnier",
+      "profile": "https://lichess.org/@/cavalo_doido"
+    },
+    {
+      "rank": 999,
       "username": "ernesto_chesslag",
       "games": 574,
       "rating": 2290,
@@ -7987,20 +7995,12 @@
       "profile": "https://lichess.org/@/ernesto_chesslag"
     },
     {
-      "rank": 999,
+      "rank": 1000,
       "username": "goldenaphrodite",
       "games": 574,
       "rating": 2356,
       "source": "Turnier",
       "profile": "https://lichess.org/@/goldenaphrodite"
-    },
-    {
-      "rank": 1000,
-      "username": "robopsyche25",
-      "games": 574,
-      "rating": 1804,
-      "source": "Lobby-Crawl",
-      "profile": "https://lichess.org/@/robopsyche25"
     }
   ]
 }
