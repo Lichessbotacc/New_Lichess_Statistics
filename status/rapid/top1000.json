@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T08:49:59.782256+00:00",
+  "updated_at": "2026-08-07T08:55:09.911443+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -7964,6 +7964,14 @@
     },
     {
       "rank": 996,
+      "username": "mybestmove1",
+      "games": 192,
+      "rating": 1801,
+      "source": "Turnier",
+      "profile": "https://lichess.org/@/mybestmove1"
+    },
+    {
+      "rank": 997,
       "username": "paulus146",
       "games": 192,
       "rating": 1539,
@@ -7971,7 +7979,7 @@
       "profile": "https://lichess.org/@/paulus146"
     },
     {
-      "rank": 997,
+      "rank": 998,
       "username": "philwhite2440",
       "games": 192,
       "rating": 1509,
@@ -7979,7 +7987,7 @@
       "profile": "https://lichess.org/@/philwhite2440"
     },
     {
-      "rank": 998,
+      "rank": 999,
       "username": "rinuz",
       "games": 192,
       "rating": 583,
@@ -7987,20 +7995,12 @@
       "profile": "https://lichess.org/@/rinuz"
     },
     {
-      "rank": 999,
+      "rank": 1000,
       "username": "shmavonmar",
       "games": 192,
       "rating": 1488,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/shmavonmar"
-    },
-    {
-      "rank": 1000,
-      "username": "smit0044",
-      "games": 192,
-      "rating": 1800,
-      "source": "Lobby-Crawl",
-      "profile": "https://lichess.org/@/smit0044"
     }
   ]
 }
