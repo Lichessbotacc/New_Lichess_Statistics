@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T13:31:04.596291+00:00",
+  "updated_at": "2026-08-08T13:36:05.852642+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -7980,6 +7980,14 @@
     },
     {
       "rank": 998,
+      "username": "martino_edenn",
+      "games": 95,
+      "rating": 2146,
+      "source": "Lobby-Crawl",
+      "profile": "https://lichess.org/@/martino_edenn"
+    },
+    {
+      "rank": 999,
       "username": "masterkrishivkh",
       "games": 95,
       "rating": 1103,
@@ -7987,20 +7995,12 @@
       "profile": "https://lichess.org/@/masterkrishivkh"
     },
     {
-      "rank": 999,
+      "rank": 1000,
       "username": "softturtle",
       "games": 95,
       "rating": 973,
       "source": "Turnier",
       "profile": "https://lichess.org/@/softturtle"
-    },
-    {
-      "rank": 1000,
-      "username": "aminx21",
-      "games": 94,
-      "rating": 1647,
-      "source": "Lobby-Crawl",
-      "profile": "https://lichess.org/@/aminx21"
     }
   ]
 }
