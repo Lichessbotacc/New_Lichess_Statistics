@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T02:02:27.415485+00:00",
+  "updated_at": "2026-08-08T02:07:45.153586+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -228,6 +228,14 @@
     },
     {
       "rank": 29,
+      "username": "rubblechess",
+      "games": 1410,
+      "rating": 2115,
+      "source": "Turnier",
+      "profile": "https://lichess.org/@/rubblechess"
+    },
+    {
+      "rank": 30,
       "username": "anonymous-one",
       "games": 1398,
       "rating": 1699,
@@ -235,7 +243,7 @@
       "profile": "https://lichess.org/@/anonymous-one"
     },
     {
-      "rank": 30,
+      "rank": 31,
       "username": "terpz83",
       "games": 1392,
       "rating": 1167,
@@ -243,7 +251,7 @@
       "profile": "https://lichess.org/@/terpz83"
     },
     {
-      "rank": 31,
+      "rank": 32,
       "username": "don_vito_76",
       "games": 1377,
       "rating": 2158,
@@ -251,7 +259,7 @@
       "profile": "https://lichess.org/@/don_vito_76"
     },
     {
-      "rank": 32,
+      "rank": 33,
       "username": "saleh1990m",
       "games": 1375,
       "rating": 2084,
@@ -259,7 +267,7 @@
       "profile": "https://lichess.org/@/saleh1990m"
     },
     {
-      "rank": 33,
+      "rank": 34,
       "username": "fa759",
       "games": 1374,
       "rating": 2150,
@@ -267,7 +275,7 @@
       "profile": "https://lichess.org/@/fa759"
     },
     {
-      "rank": 34,
+      "rank": 35,
       "username": "iljing",
       "games": 1374,
       "rating": 2512,
@@ -275,20 +283,12 @@
       "profile": "https://lichess.org/@/iljing"
     },
     {
-      "rank": 35,
+      "rank": 36,
       "username": "alejandroalfonzo",
       "games": 1369,
       "rating": 2304,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/alejandroalfonzo"
-    },
-    {
-      "rank": 36,
-      "username": "rubblechess",
-      "games": 1369,
-      "rating": 2115,
-      "source": "Turnier",
-      "profile": "https://lichess.org/@/rubblechess"
     },
     {
       "rank": 37,
