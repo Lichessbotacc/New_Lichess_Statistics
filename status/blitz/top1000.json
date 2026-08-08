@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T09:24:25.608654+00:00",
+  "updated_at": "2026-08-08T09:29:41.554824+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -12,14 +12,6 @@
     },
     {
       "rank": 2,
-      "username": "panchotoc123",
-      "games": 1246,
-      "rating": 1809,
-      "source": "Turnier",
-      "profile": "https://lichess.org/@/panchotoc123"
-    },
-    {
-      "rank": 3,
       "username": "lazor13",
       "games": 1137,
       "rating": 1824,
@@ -27,7 +19,7 @@
       "profile": "https://lichess.org/@/lazor13"
     },
     {
-      "rank": 4,
+      "rank": 3,
       "username": "vitalov",
       "games": 1035,
       "rating": 1585,
@@ -35,12 +27,20 @@
       "profile": "https://lichess.org/@/vitalov"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "username": "garry1304",
       "games": 1025,
       "rating": 2037,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/garry1304"
+    },
+    {
+      "rank": 5,
+      "username": "panchotoc123",
+      "games": 1022,
+      "rating": 1809,
+      "source": "Turnier",
+      "profile": "https://lichess.org/@/panchotoc123"
     },
     {
       "rank": 6,
