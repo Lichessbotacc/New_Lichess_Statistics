@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T03:06:38.205964+00:00",
+  "updated_at": "2026-08-08T03:11:39.868074+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -460,6 +460,14 @@
     },
     {
       "rank": 58,
+      "username": "harpalsinh2828",
+      "games": 111,
+      "rating": 1877,
+      "source": "Lobby-Crawl",
+      "profile": "https://lichess.org/@/harpalsinh2828"
+    },
+    {
+      "rank": 59,
       "username": "jobijo",
       "games": 107,
       "rating": 1975,
@@ -467,7 +475,7 @@
       "profile": "https://lichess.org/@/jobijo"
     },
     {
-      "rank": 59,
+      "rank": 60,
       "username": "sogansizmenemeni",
       "games": 107,
       "rating": 1046,
@@ -475,20 +483,12 @@
       "profile": "https://lichess.org/@/sogansizmenemeni"
     },
     {
-      "rank": 60,
+      "rank": 61,
       "username": "zahra2014aria",
       "games": 107,
       "rating": 1552,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/zahra2014aria"
-    },
-    {
-      "rank": 61,
-      "username": "harpalsinh2828",
-      "games": 106,
-      "rating": 1877,
-      "source": "Lobby-Crawl",
-      "profile": "https://lichess.org/@/harpalsinh2828"
     },
     {
       "rank": 62,
@@ -7956,14 +7956,6 @@
     },
     {
       "rank": 995,
-      "username": "dgropa",
-      "games": 37,
-      "rating": 1638,
-      "source": "Lobby-Crawl",
-      "profile": "https://lichess.org/@/dgropa"
-    },
-    {
-      "rank": 996,
       "username": "doctorsaman",
       "games": 37,
       "rating": 1757,
@@ -7971,7 +7963,7 @@
       "profile": "https://lichess.org/@/doctorsaman"
     },
     {
-      "rank": 997,
+      "rank": 996,
       "username": "dtwv",
       "games": 37,
       "rating": 1776,
@@ -7979,7 +7971,7 @@
       "profile": "https://lichess.org/@/dtwv"
     },
     {
-      "rank": 998,
+      "rank": 997,
       "username": "fushieum",
       "games": 37,
       "rating": 990,
@@ -7987,7 +7979,7 @@
       "profile": "https://lichess.org/@/fushieum"
     },
     {
-      "rank": 999,
+      "rank": 998,
       "username": "goodb22",
       "games": 37,
       "rating": 1601,
@@ -7995,12 +7987,20 @@
       "profile": "https://lichess.org/@/goodb22"
     },
     {
-      "rank": 1000,
+      "rank": 999,
       "username": "guille3783",
       "games": 37,
       "rating": 1333,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/guille3783"
+    },
+    {
+      "rank": 1000,
+      "username": "guitar9696",
+      "games": 37,
+      "rating": 1455,
+      "source": "Lobby-Crawl",
+      "profile": "https://lichess.org/@/guitar9696"
     }
   ]
 }
