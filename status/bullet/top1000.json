@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T10:12:35.187816+00:00",
+  "updated_at": "2026-08-08T10:17:44.678493+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -212,14 +212,6 @@
     },
     {
       "rank": 27,
-      "username": "eye_inthe_sky",
-      "games": 1494,
-      "rating": 1968,
-      "source": "Turnier",
-      "profile": "https://lichess.org/@/eye_inthe_sky"
-    },
-    {
-      "rank": 28,
       "username": "mrches161",
       "games": 1452,
       "rating": 1785,
@@ -227,7 +219,7 @@
       "profile": "https://lichess.org/@/mrches161"
     },
     {
-      "rank": 29,
+      "rank": 28,
       "username": "thobisch",
       "games": 1434,
       "rating": 2410,
@@ -235,7 +227,7 @@
       "profile": "https://lichess.org/@/thobisch"
     },
     {
-      "rank": 30,
+      "rank": 29,
       "username": "rubblechess",
       "games": 1410,
       "rating": 2115,
@@ -243,7 +235,7 @@
       "profile": "https://lichess.org/@/rubblechess"
     },
     {
-      "rank": 31,
+      "rank": 30,
       "username": "anonymous-one",
       "games": 1398,
       "rating": 1699,
@@ -251,7 +243,7 @@
       "profile": "https://lichess.org/@/anonymous-one"
     },
     {
-      "rank": 32,
+      "rank": 31,
       "username": "terpz83",
       "games": 1392,
       "rating": 1167,
@@ -259,7 +251,7 @@
       "profile": "https://lichess.org/@/terpz83"
     },
     {
-      "rank": 33,
+      "rank": 32,
       "username": "don_vito_76",
       "games": 1377,
       "rating": 2158,
@@ -267,7 +259,7 @@
       "profile": "https://lichess.org/@/don_vito_76"
     },
     {
-      "rank": 34,
+      "rank": 33,
       "username": "saleh1990m",
       "games": 1375,
       "rating": 2084,
@@ -275,7 +267,7 @@
       "profile": "https://lichess.org/@/saleh1990m"
     },
     {
-      "rank": 35,
+      "rank": 34,
       "username": "fa759",
       "games": 1374,
       "rating": 2150,
@@ -283,7 +275,7 @@
       "profile": "https://lichess.org/@/fa759"
     },
     {
-      "rank": 36,
+      "rank": 35,
       "username": "iljing",
       "games": 1374,
       "rating": 2512,
@@ -291,12 +283,20 @@
       "profile": "https://lichess.org/@/iljing"
     },
     {
-      "rank": 37,
+      "rank": 36,
       "username": "alejandroalfonzo",
       "games": 1369,
       "rating": 2304,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/alejandroalfonzo"
+    },
+    {
+      "rank": 37,
+      "username": "eye_inthe_sky",
+      "games": 1368,
+      "rating": 1968,
+      "source": "Turnier",
+      "profile": "https://lichess.org/@/eye_inthe_sky"
     },
     {
       "rank": 38,
