@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T07:29:46.034657+00:00",
+  "updated_at": "2026-08-08T07:34:48.444054+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -1196,14 +1196,6 @@
     },
     {
       "rank": 150,
-      "username": "penza2000",
-      "games": 307,
-      "rating": 1893,
-      "source": "Lobby-Crawl",
-      "profile": "https://lichess.org/@/penza2000"
-    },
-    {
-      "rank": 151,
       "username": "arturkosel",
       "games": 306,
       "rating": 1738,
@@ -1211,7 +1203,7 @@
       "profile": "https://lichess.org/@/arturkosel"
     },
     {
-      "rank": 152,
+      "rank": 151,
       "username": "deathking1",
       "games": 306,
       "rating": 1792,
@@ -1219,7 +1211,7 @@
       "profile": "https://lichess.org/@/deathking1"
     },
     {
-      "rank": 153,
+      "rank": 152,
       "username": "haleem1234",
       "games": 306,
       "rating": 1800,
@@ -1227,7 +1219,7 @@
       "profile": "https://lichess.org/@/haleem1234"
     },
     {
-      "rank": 154,
+      "rank": 153,
       "username": "kogino",
       "games": 306,
       "rating": 2205,
@@ -1235,12 +1227,20 @@
       "profile": "https://lichess.org/@/kogino"
     },
     {
-      "rank": 155,
+      "rank": 154,
       "username": "maja_76",
       "games": 305,
       "rating": 1169,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/maja_76"
+    },
+    {
+      "rank": 155,
+      "username": "penza2000",
+      "games": 305,
+      "rating": 1893,
+      "source": "Lobby-Crawl",
+      "profile": "https://lichess.org/@/penza2000"
     },
     {
       "rank": 156,
@@ -7916,6 +7916,14 @@
     },
     {
       "rank": 990,
+      "username": "hugo2112",
+      "games": 194,
+      "rating": 1714,
+      "source": "Lobby-Crawl",
+      "profile": "https://lichess.org/@/hugo2112"
+    },
+    {
+      "rank": 991,
       "username": "leadhead",
       "games": 194,
       "rating": 2136,
@@ -7923,7 +7931,7 @@
       "profile": "https://lichess.org/@/leadhead"
     },
     {
-      "rank": 991,
+      "rank": 992,
       "username": "linarrow1981",
       "games": 194,
       "rating": 1163,
@@ -7931,7 +7939,7 @@
       "profile": "https://lichess.org/@/linarrow1981"
     },
     {
-      "rank": 992,
+      "rank": 993,
       "username": "oopsalreadymoved",
       "games": 194,
       "rating": 2151,
@@ -7939,7 +7947,7 @@
       "profile": "https://lichess.org/@/oopsalreadymoved"
     },
     {
-      "rank": 993,
+      "rank": 994,
       "username": "paradoktor777",
       "games": 194,
       "rating": 1897,
@@ -7947,7 +7955,7 @@
       "profile": "https://lichess.org/@/paradoktor777"
     },
     {
-      "rank": 994,
+      "rank": 995,
       "username": "robmb",
       "games": 194,
       "rating": 1739,
@@ -7955,7 +7963,7 @@
       "profile": "https://lichess.org/@/robmb"
     },
     {
-      "rank": 995,
+      "rank": 996,
       "username": "sahlianno",
       "games": 194,
       "rating": 1206,
@@ -7963,7 +7971,7 @@
       "profile": "https://lichess.org/@/sahlianno"
     },
     {
-      "rank": 996,
+      "rank": 997,
       "username": "waun",
       "games": 194,
       "rating": 1042,
@@ -7971,7 +7979,7 @@
       "profile": "https://lichess.org/@/waun"
     },
     {
-      "rank": 997,
+      "rank": 998,
       "username": "wb52",
       "games": 194,
       "rating": 1665,
@@ -7979,7 +7987,7 @@
       "profile": "https://lichess.org/@/wb52"
     },
     {
-      "rank": 998,
+      "rank": 999,
       "username": "biciaz",
       "games": 193,
       "rating": 1396,
@@ -7987,20 +7995,12 @@
       "profile": "https://lichess.org/@/biciaz"
     },
     {
-      "rank": 999,
+      "rank": 1000,
       "username": "checco30",
       "games": 193,
       "rating": 1587,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/checco30"
-    },
-    {
-      "rank": 1000,
-      "username": "dolea",
-      "games": 193,
-      "rating": 1803,
-      "source": "Lobby-Crawl",
-      "profile": "https://lichess.org/@/dolea"
     }
   ]
 }
