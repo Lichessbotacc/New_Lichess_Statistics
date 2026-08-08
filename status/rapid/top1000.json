@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T02:02:41.038169+00:00",
+  "updated_at": "2026-08-08T02:07:41.454515+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -7964,6 +7964,14 @@
     },
     {
       "rank": 996,
+      "username": "guarriman1",
+      "games": 193,
+      "rating": 1675,
+      "source": "Lobby-Crawl",
+      "profile": "https://lichess.org/@/guarriman1"
+    },
+    {
+      "rank": 997,
       "username": "ivan19865",
       "games": 193,
       "rating": 1094,
@@ -7971,7 +7979,7 @@
       "profile": "https://lichess.org/@/ivan19865"
     },
     {
-      "rank": 997,
+      "rank": 998,
       "username": "kago2han",
       "games": 193,
       "rating": 1900,
@@ -7979,7 +7987,7 @@
       "profile": "https://lichess.org/@/kago2han"
     },
     {
-      "rank": 998,
+      "rank": 999,
       "username": "kanafrombish",
       "games": 193,
       "rating": 1920,
@@ -7987,20 +7995,12 @@
       "profile": "https://lichess.org/@/kanafrombish"
     },
     {
-      "rank": 999,
+      "rank": 1000,
       "username": "mhr_2106",
       "games": 193,
       "rating": 1212,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/mhr_2106"
-    },
-    {
-      "rank": 1000,
-      "username": "moterompo",
-      "games": 193,
-      "rating": 2016,
-      "source": "Lobby-Crawl",
-      "profile": "https://lichess.org/@/moterompo"
     }
   ]
 }
