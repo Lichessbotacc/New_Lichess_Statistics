@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T12:32:54.283563+00:00",
+  "updated_at": "2026-08-08T12:37:56.548665+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -2420,6 +2420,14 @@
     },
     {
       "rank": 303,
+      "username": "nikitosik1708",
+      "games": 300,
+      "rating": 2167,
+      "source": "Lobby-Crawl",
+      "profile": "https://lichess.org/@/nikitosik1708"
+    },
+    {
+      "rank": 304,
       "username": "shakiro",
       "games": 299,
       "rating": 1679,
@@ -2427,7 +2435,7 @@
       "profile": "https://lichess.org/@/shakiro"
     },
     {
-      "rank": 304,
+      "rank": 305,
       "username": "thinkhardthinkstrong",
       "games": 299,
       "rating": 2134,
@@ -2435,7 +2443,7 @@
       "profile": "https://lichess.org/@/thinkhardthinkstrong"
     },
     {
-      "rank": 305,
+      "rank": 306,
       "username": "kotlcfp",
       "games": 297,
       "rating": 1868,
@@ -2443,7 +2451,7 @@
       "profile": "https://lichess.org/@/kotlcfp"
     },
     {
-      "rank": 306,
+      "rank": 307,
       "username": "ozgun10",
       "games": 297,
       "rating": 2089,
@@ -2451,20 +2459,12 @@
       "profile": "https://lichess.org/@/ozgun10"
     },
     {
-      "rank": 307,
+      "rank": 308,
       "username": "playingbest234",
       "games": 297,
       "rating": 1753,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/playingbest234"
-    },
-    {
-      "rank": 308,
-      "username": "nikitosik1708",
-      "games": 295,
-      "rating": 2167,
-      "source": "Lobby-Crawl",
-      "profile": "https://lichess.org/@/nikitosik1708"
     },
     {
       "rank": 309,
@@ -3316,14 +3316,6 @@
     },
     {
       "rank": 415,
-      "username": "jlcchess666",
-      "games": 230,
-      "rating": 1857,
-      "source": "Lobby-Crawl",
-      "profile": "https://lichess.org/@/jlcchess666"
-    },
-    {
-      "rank": 416,
       "username": "zooz-zerk",
       "games": 230,
       "rating": 1992,
@@ -3331,7 +3323,7 @@
       "profile": "https://lichess.org/@/zooz-zerk"
     },
     {
-      "rank": 417,
+      "rank": 416,
       "username": "brababayagagaga",
       "games": 229,
       "rating": 1624,
@@ -3339,7 +3331,7 @@
       "profile": "https://lichess.org/@/brababayagagaga"
     },
     {
-      "rank": 418,
+      "rank": 417,
       "username": "gafferz",
       "games": 229,
       "rating": 1728,
@@ -3347,12 +3339,20 @@
       "profile": "https://lichess.org/@/gafferz"
     },
     {
-      "rank": 419,
+      "rank": 418,
       "username": "kphanminh662",
       "games": 229,
       "rating": 1924,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/kphanminh662"
+    },
+    {
+      "rank": 419,
+      "username": "jlcchess666",
+      "games": 228,
+      "rating": 1857,
+      "source": "Lobby-Crawl",
+      "profile": "https://lichess.org/@/jlcchess666"
     },
     {
       "rank": 420,
